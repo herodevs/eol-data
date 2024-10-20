@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "eol-data",
+  "version": "0.0.0",
+  "description": "Cache and process EOL data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herodevs/eol-data.git"
+  },
+  "author": "Jordan Harband <ljharb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herodevs/eol-data/issues"
+  },
+  "homepage": "https://github.com/herodevs/eol-data#readme"
+}
