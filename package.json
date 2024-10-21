@@ -3,7 +3,6 @@
   "name": "eol-data",
   "version": "0.0.0",
   "description": "Cache and process EOL data",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/herodevs/eol-data/issues"
   },
-  "homepage": "https://github.com/herodevs/eol-data#readme"
+  "homepage": "https://github.com/herodevs/eol-data#readme",
+  "engines": {
+    "node": ">=22"
+  }
 }
