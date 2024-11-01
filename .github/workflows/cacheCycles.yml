@@ -32,6 +32,10 @@ jobs:
             - uses: ljharb/actions/node/install@main
 
             - run: node cacheCycles.mjs
+              name: cache EOL data
+
+            - run: node csv.mjs
+              name: update cached CSV data
 
             - run: git checkout data
 
