@@ -341,8 +341,8 @@
 			"cycle": "2",
 			"releaseDate": "2021-12-01",
 			"eol": false,
-			"latest": "2.164.1",
-			"latestReleaseDate": "2024-10-25",
+			"latest": "2.165.0",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false,
 			"support": true
 		}
@@ -3667,8 +3667,8 @@
 			"cycle": "3.11",
 			"releaseDate": "2023-05-23",
 			"eol": false,
-			"latest": "3.11.11.1",
-			"latestReleaseDate": "2024-10-22",
+			"latest": "3.11.12",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
@@ -5644,6 +5644,14 @@
 	],
 	"calico": [
 		{
+			"cycle": "3.29",
+			"releaseDate": "2024-10-29",
+			"eol": false,
+			"latest": "3.29.0",
+			"latestReleaseDate": "2024-10-29",
+			"lts": false
+		},
+		{
 			"cycle": "3.28",
 			"releaseDate": "2024-05-10",
 			"eol": false,
@@ -5654,7 +5662,7 @@
 		{
 			"cycle": "3.27",
 			"releaseDate": "2023-12-15",
-			"eol": false,
+			"eol": "2024-10-29",
 			"latest": "3.27.4",
 			"latestReleaseDate": "2024-07-08",
 			"lts": false
@@ -6526,8 +6534,8 @@
 			"releaseDate": "2024-02-05",
 			"lts": "2024-07-02",
 			"eol": "2025-08-05",
-			"latest": "23.2.13",
-			"latestReleaseDate": "2024-10-11",
+			"latest": "23.2.14",
+			"latestReleaseDate": "2024-10-29",
 			"support": "2025-02-05"
 		},
 		{
@@ -9000,8 +9008,8 @@
 			"eol": false,
 			"supportedPhpVersions": "8.3+",
 			"supportedDrupalVersions": "10.2 - 11",
-			"latest": "13.3.1",
-			"latestReleaseDate": "2024-10-29",
+			"latest": "13.3.2",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
@@ -11405,9 +11413,17 @@
 	],
 	"firefox": [
 		{
+			"cycle": "132",
+			"releaseDate": "2024-10-29",
+			"eol": false,
+			"latest": "132.0.0",
+			"latestReleaseDate": "2024-10-29",
+			"lts": false
+		},
+		{
 			"cycle": "131",
 			"releaseDate": "2024-10-01",
-			"eol": false,
+			"eol": "2024-10-29",
 			"latest": "131.0.3",
 			"latestReleaseDate": "2024-10-14",
 			"lts": false
@@ -13023,8 +13039,8 @@
 			"cycle": "1.31",
 			"releaseDate": "2024-10-25",
 			"eol": "2025-12-22",
-			"latest": "1.31.1-gke.2008000",
-			"latestReleaseDate": "2024-10-25",
+			"latest": "1.31.1-gke.2105000",
+			"latestReleaseDate": "2024-10-30",
 			"lts": false,
 			"support": "2025-09-30"
 		},
@@ -17256,8 +17272,8 @@
 			"cycle": "10.1",
 			"releaseDate": "2024-10-09",
 			"eol": "2026-10-09",
-			"latest": "10.1.1",
-			"latestReleaseDate": "2024-10-09",
+			"latest": "10.1.2",
+			"latestReleaseDate": "2024-10-31",
 			"link": "https://confluence.atlassian.com/jirasoftware/jira-software-10-1-x-release-notes-1431966268.html",
 			"lts": false
 		},
@@ -18234,8 +18250,8 @@
 			"cycle": "1",
 			"releaseDate": "2022-04-10",
 			"eol": false,
-			"latest": "1.14.0",
-			"latestReleaseDate": "2024-08-31",
+			"latest": "1.15.0",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false,
 			"support": true
 		},
@@ -19530,7 +19546,7 @@
 	"kuma": [
 		{
 			"cycle": "2.9",
-			"releaseDate": "2024-10-18",
+			"releaseDate": "2024-10-22",
 			"eol": "2025-10-22",
 			"latest": "2.9.0",
 			"latestReleaseDate": "2024-10-18",
@@ -19667,6 +19683,15 @@
 	],
 	"kyverno": [
 		{
+			"cycle": "1.13",
+			"releaseDate": "2024-10-29",
+			"eol": false,
+			"latest": "1.13.0",
+			"latestReleaseDate": "2024-10-29",
+			"supportedK8sVersions": "1.28 - 1.31",
+			"lts": false
+		},
+		{
 			"cycle": "1.12",
 			"releaseDate": "2024-04-26",
 			"eol": false,
@@ -19687,7 +19712,7 @@
 		{
 			"cycle": "1.10",
 			"releaseDate": "2023-05-30",
-			"eol": false,
+			"eol": "2024-10-29",
 			"latest": "1.10.7",
 			"latestReleaseDate": "2023-12-20",
 			"supportedK8sVersions": "1.24 - 1.26",
@@ -19925,8 +19950,8 @@
 			"cycle": "6.11",
 			"releaseDate": "2024-09-15",
 			"eol": "2025-01-15",
-			"latest": "6.11.5",
-			"latestReleaseDate": "2024-10-22",
+			"latest": "6.11.6",
+			"latestReleaseDate": "2024-11-01",
 			"lts": false
 		},
 		{
@@ -19966,8 +19991,8 @@
 			"lts": true,
 			"releaseDate": "2023-10-30",
 			"eol": "2026-12-31",
-			"latest": "6.6.58",
-			"latestReleaseDate": "2024-10-22"
+			"latest": "6.6.59",
+			"latestReleaseDate": "2024-11-01"
 		},
 		{
 			"cycle": "6.5",
@@ -20006,8 +20031,8 @@
 			"lts": true,
 			"releaseDate": "2022-12-11",
 			"eol": "2026-12-31",
-			"latest": "6.1.114",
-			"latestReleaseDate": "2024-10-22"
+			"latest": "6.1.115",
+			"latestReleaseDate": "2024-11-01"
 		},
 		{
 			"cycle": "6.0",
@@ -20054,8 +20079,8 @@
 			"lts": true,
 			"releaseDate": "2021-10-31",
 			"eol": "2026-10-31",
-			"latest": "5.15.169",
-			"latestReleaseDate": "2024-10-22"
+			"latest": "5.15.170",
+			"latestReleaseDate": "2024-11-01"
 		},
 		{
 			"cycle": "5.10",
@@ -22283,9 +22308,17 @@
 	],
 	"meilisearch": [
 		{
+			"cycle": "1.11",
+			"releaseDate": "2024-10-21",
+			"eol": false,
+			"latest": "1.11.0",
+			"latestReleaseDate": "2024-10-21",
+			"lts": false
+		},
+		{
 			"cycle": "1.10",
 			"releaseDate": "2024-08-21",
-			"eol": false,
+			"eol": "2024-10-21",
 			"latest": "1.10.3",
 			"latestReleaseDate": "2024-10-10",
 			"lts": false
@@ -24275,8 +24308,8 @@
 			"cycle": "15",
 			"releaseDate": "2024-10-21",
 			"eol": false,
-			"latest": "15.0.0",
-			"latestReleaseDate": "2024-10-21",
+			"latest": "15.0.2",
+			"latestReleaseDate": "2024-10-29",
 			"lts": false
 		},
 		{
@@ -24900,56 +24933,56 @@
 			"cycle": "2.24",
 			"releaseDate": "2024-08-01",
 			"eol": false,
-			"latest": "2.24.9",
-			"latestReleaseDate": "2024-09-28",
+			"latest": "2.24.10",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
 			"cycle": "2.23",
 			"releaseDate": "2024-06-12",
 			"eol": "2024-08-01",
-			"latest": "2.23.3",
-			"latestReleaseDate": "2024-07-08",
+			"latest": "2.23.4",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
 			"cycle": "2.22",
 			"releaseDate": "2024-04-23",
 			"eol": "2024-06-12",
-			"latest": "2.22.3",
-			"latestReleaseDate": "2024-07-05",
+			"latest": "2.22.4",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
 			"cycle": "2.21",
 			"releaseDate": "2024-03-11",
 			"eol": "2024-04-23",
-			"latest": "2.21.4",
-			"latestReleaseDate": "2024-07-10",
+			"latest": "2.21.5",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
 			"cycle": "2.20",
 			"releaseDate": "2024-01-29",
 			"eol": "2024-03-11",
-			"latest": "2.20.8",
-			"latestReleaseDate": "2024-07-08",
+			"latest": "2.20.9",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
 			"cycle": "2.19",
 			"releaseDate": "2023-11-20",
 			"eol": "2024-01-29",
-			"latest": "2.19.6",
-			"latestReleaseDate": "2024-07-08",
+			"latest": "2.19.7",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
 			"cycle": "2.18",
 			"releaseDate": "2023-09-20",
 			"eol": "2023-11-17",
-			"latest": "2.18.8",
-			"latestReleaseDate": "2024-09-26",
+			"latest": "2.18.9",
+			"latestReleaseDate": "2024-10-31",
 			"lts": false
 		},
 		{
@@ -27211,6 +27244,23 @@
 			"link": "https://learn.microsoft.com/lifecycle/faq/office",
 			"lts": false,
 			"support": true
+		},
+		{
+			"cycle": "2024",
+			"releaseDate": "2024-10-01",
+			"eol": "2029-10-09",
+			"link": "https://learn.microsoft.com/lifecycle/products/office-2024",
+			"lts": false,
+			"support": "2029-10-09"
+		},
+		{
+			"cycle": "2024-ltsc",
+			"releaseLabel": "2024 LTSC",
+			"releaseDate": "2024-09-18",
+			"lts": true,
+			"eol": "2029-10-09",
+			"link": "https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024",
+			"support": "2029-10-09"
 		},
 		{
 			"cycle": "2021",
@@ -30011,6 +30061,14 @@
 		}
 	],
 	"plesk": [
+		{
+			"cycle": "18.0.65",
+			"releaseDate": "2024-10-29",
+			"eol": "2025-01-21",
+			"latest": "18.0.65.0",
+			"latestReleaseDate": "2024-10-29",
+			"lts": false
+		},
 		{
 			"cycle": "18.0.64",
 			"releaseDate": "2024-09-17",
@@ -32872,8 +32930,8 @@
 			"cycle": "4.15",
 			"releaseDate": "2024-02-27",
 			"eol": "2025-08-27",
-			"latest": "4.15.36",
-			"latestReleaseDate": "2024-10-09",
+			"latest": "4.15.37",
+			"latestReleaseDate": "2024-10-30",
 			"lts": false,
 			"support": "2024-09-27",
 			"extendedSupport": false
@@ -41006,13 +41064,22 @@
 	],
 	"traefik": [
 		{
-			"cycle": "3.1",
-			"releaseDate": "2024-07-15",
+			"cycle": "3.2",
+			"releaseDate": "2024-10-28",
 			"eol": false,
-			"latest": "3.1.7",
+			"latest": "3.2.0",
 			"latestReleaseDate": "2024-10-28",
 			"lts": false,
 			"support": true
+		},
+		{
+			"cycle": "3.1",
+			"releaseDate": "2024-07-15",
+			"eol": "2024-10-28",
+			"latest": "3.1.7",
+			"latestReleaseDate": "2024-10-28",
+			"lts": false,
+			"support": "2024-10-28"
 		},
 		{
 			"cycle": "3.0",
