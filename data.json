@@ -23845,9 +23845,18 @@
 	],
 	"neo4j": [
 		{
+			"cycle": "5.25",
+			"releaseDate": "2024-10-31",
+			"eol": false,
+			"latest": "5.25.1",
+			"latestReleaseDate": "2024-10-31",
+			"link": "https://neo4j.com/release-notes/database/neo4j-5/",
+			"lts": false
+		},
+		{
 			"cycle": "5.24",
 			"releaseDate": "2024-09-27",
-			"eol": false,
+			"eol": "2024-10-31",
 			"latest": "5.24.2",
 			"latestReleaseDate": "2024-10-10",
 			"link": "https://neo4j.com/release-notes/database/neo4j-5/",
@@ -23856,7 +23865,7 @@
 		{
 			"cycle": "5.23",
 			"releaseDate": "2024-08-22",
-			"eol": false,
+			"eol": "2024-09-27",
 			"latest": "5.23.0",
 			"latestReleaseDate": "2024-08-27",
 			"lts": false
@@ -43308,6 +43317,15 @@
 	],
 	"wagtail": [
 		{
+			"cycle": "6.3",
+			"lts": true,
+			"releaseDate": "2024-11-01",
+			"eol": "2026-02-03",
+			"latest": "6.3.0",
+			"latestReleaseDate": "2024-11-01",
+			"support": "2026-02-03"
+		},
+		{
 			"cycle": "6.2",
 			"releaseDate": "2024-08-01",
 			"eol": "2025-02-01",
@@ -44271,6 +44289,16 @@
 		}
 	],
 	"windows-server": [
+		{
+			"cycle": "2025",
+			"releaseDate": "2024-11-01",
+			"eol": "2034-10-10",
+			"latest": "10.0.26100",
+			"lts": true,
+			"link": "https://learn.microsoft.com/windows/release-health/windows-server-release-info",
+			"support": "2029-10-09",
+			"extendedSupport": false
+		},
 		{
 			"cycle": "23H2",
 			"releaseDate": "2023-10-24",
