@@ -44,12 +44,16 @@ jobs:
             - run: git mv -f out/* ./
 
             - name: GIT commit and push all changed files
+              if: 
               env:
                   CI_COMMIT_MESSAGE: '[cron] update data'
                   CI_COMMIT_AUTHOR: Github Actions
                   CI_COMMIT_EMAIL: actions@users.noreply.github.com
               run: |
-                  git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-                  git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
-                  git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
-                  git push
+                  git update-index --really-refresh
+                  git diff-index --quiet HEAD || {
+                    git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+                    git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
+                    git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+                    git push
+                  }
