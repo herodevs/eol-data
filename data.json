@@ -2889,6 +2889,15 @@
 	],
 	"apache-kafka": [
 		{
+			"cycle": "3.9",
+			"releaseDate": "2024-11-06",
+			"eol": false,
+			"latest": "3.9.0",
+			"latestReleaseDate": "2024-11-06",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
 			"cycle": "3.8",
 			"releaseDate": "2024-07-26",
 			"eol": false,
@@ -40346,7 +40355,7 @@
 			"cycle": "5.4",
 			"lts": true,
 			"releaseDate": "2021-11-29",
-			"eol": "2025-11-30",
+			"eol": "2029-02-28",
 			"latest": "5.4.45",
 			"latestReleaseDate": "2024-10-27",
 			"support": "2024-11-30"
