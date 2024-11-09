@@ -637,8 +637,8 @@
 			"cycle": "2023",
 			"releaseDate": "2023-03-01",
 			"eol": "2028-03-15",
-			"latest": "2023.6.20241010.0",
-			"latestReleaseDate": "2024-10-21",
+			"latest": "2023.6.20241031.0",
+			"latestReleaseDate": "2024-11-08",
 			"link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/",
 			"lts": false,
 			"support": "2025-03-15"
@@ -647,8 +647,8 @@
 			"cycle": "2",
 			"releaseDate": "2018-06-26",
 			"eol": "2025-06-30",
-			"latest": "2.0.20241014.0",
-			"latestReleaseDate": "2024-10-21",
+			"latest": "2.0.20241031.0",
+			"latestReleaseDate": "2024-11-08",
 			"link": "https://aws.amazon.com/about-aws/whats-new/2018/06/announcing-amazon-linux-2-with-long-term-support/",
 			"lts": false,
 			"support": "2025-06-30"
@@ -815,7 +815,7 @@
 			"upgradeVersion": "N/A",
 			"eol": "2027-03-06",
 			"latest": "1.4.0.0",
-			"latestReleaseDate": "2024-10-06",
+			"latestReleaseDate": "2024-11-06",
 			"lts": false
 		},
 		{
@@ -1503,7 +1503,7 @@
 			"pythonVersionsManagedNode": "2.7 / 3.6 - 3.12",
 			"powershellVersionsManagedNode": "3 - 5.1",
 			"releaseDate": "2023-11-21",
-			"eol": "2024-11-01",
+			"eol": "2024-11-30",
 			"latest": "9.12.0",
 			"latestReleaseDate": "2024-11-05",
 			"lts": false
@@ -1608,10 +1608,21 @@
 	],
 	"ansible-core": [
 		{
+			"cycle": "2.18",
+			"pythonVersionsControlNode": "3.11 - 3.13",
+			"pythonVersionsManagedNode": "3.8 - 3.13",
+			"powershellVersionsManagedNode": 5.1,
+			"releaseDate": "2024-11-04",
+			"eol": "2026-05-01",
+			"latest": "2.18.0",
+			"latestReleaseDate": "2024-11-04",
+			"lts": false
+		},
+		{
 			"cycle": "2.17",
 			"pythonVersionsControlNode": "3.10 - 3.12",
 			"pythonVersionsManagedNode": "3.7 - 3.12",
-			"powershellVersionsManagedNode": "3 - 5.1",
+			"powershellVersionsManagedNode": 5.1,
 			"releaseDate": "2024-05-20",
 			"eol": "2025-11-01",
 			"latest": "2.17.6",
@@ -6798,8 +6809,8 @@
 			"cycle": "2023",
 			"releaseDate": "2022-05-16",
 			"eol": "2028-05-16",
-			"latest": "2023.0.10.330680",
-			"latestReleaseDate": "2024-09-10",
+			"latest": "2023.0.11.330706",
+			"latestReleaseDate": "2024-10-15",
 			"lts": false,
 			"extendedSupport": "2029-05-16"
 		},
@@ -6807,8 +6818,8 @@
 			"cycle": "2021",
 			"releaseDate": "2020-11-11",
 			"eol": "2025-11-10",
-			"latest": "2021.0.16.330307",
-			"latestReleaseDate": "2024-09-10",
+			"latest": "2021.0.17.330334",
+			"latestReleaseDate": "2024-10-15",
 			"lts": false,
 			"extendedSupport": "2026-11-10"
 		},
@@ -7248,13 +7259,22 @@
 	],
 	"containerd": [
 		{
+			"cycle": "2.0",
+			"releaseDate": "2024-11-05",
+			"eol": false,
+			"latest": "2.0.0",
+			"latestReleaseDate": "2024-11-05",
+			"lts": false,
+			"support": true
+		},
+		{
 			"cycle": "1.7",
 			"releaseDate": "2023-03-10",
 			"eol": false,
 			"latest": "1.7.23",
 			"latestReleaseDate": "2024-10-14",
 			"lts": false,
-			"support": true
+			"support": "2025-05-05"
 		},
 		{
 			"cycle": "1.6",
@@ -7800,32 +7820,32 @@
 			"lts": true,
 			"releaseDate": "2024-10-02",
 			"eol": "2026-09-01",
-			"latest": "cos-117-18613-75-4",
-			"latestReleaseDate": "2024-10-31"
+			"latest": "cos-117-18613-75-7",
+			"latestReleaseDate": "2024-11-06"
 		},
 		{
 			"cycle": "cos-113",
 			"lts": true,
 			"releaseDate": "2024-04-15",
 			"eol": "2026-03-01",
-			"latest": "cos-113-18244-236-9",
-			"latestReleaseDate": "2024-10-28"
+			"latest": "cos-113-18244-236-26",
+			"latestReleaseDate": "2024-11-06"
 		},
 		{
 			"cycle": "cos-109",
 			"lts": true,
 			"releaseDate": "2023-09-27",
 			"eol": "2025-09-01",
-			"latest": "cos-109-17800-372-12",
-			"latestReleaseDate": "2024-10-28"
+			"latest": "cos-109-17800-372-31",
+			"latestReleaseDate": "2024-11-06"
 		},
 		{
 			"cycle": "cos-105",
 			"lts": true,
 			"releaseDate": "2023-04-03",
 			"eol": "2025-04-01",
-			"latest": "cos-105-17412-495-13",
-			"latestReleaseDate": "2024-10-28"
+			"latest": "cos-105-17412-495-28",
+			"latestReleaseDate": "2024-11-06"
 		},
 		{
 			"cycle": "cos-101",
@@ -7965,8 +7985,8 @@
 			"cycle": "5",
 			"releaseDate": "2024-03-26",
 			"eol": "2028-04-30",
-			"latest": "5.4.10",
-			"latestReleaseDate": "2024-11-06",
+			"latest": "5.4.10.1",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false,
 			"support": "2027-04-30"
 		},
@@ -8909,8 +8929,8 @@
 			"cycle": "11.0",
 			"releaseDate": "2024-08-02",
 			"eol": "2025-06-16",
-			"latest": "11.0.5",
-			"latestReleaseDate": "2024-10-03",
+			"latest": "11.0.6",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
@@ -8919,8 +8939,8 @@
 			"cycle": "10.3",
 			"releaseDate": "2024-06-20",
 			"eol": "2025-06-16",
-			"latest": "10.3.6",
-			"latestReleaseDate": "2024-10-03",
+			"latest": "10.3.7",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false,
 			"support": "2024-08-02",
 			"extendedSupport": false
@@ -9146,8 +9166,8 @@
 			"servletVersion": "3.1 - 6.0",
 			"jspVersion": "2.3 - 3.1",
 			"eol": false,
-			"latest": "12.0.14",
-			"latestReleaseDate": "2024-09-30",
+			"latest": "12.0.15",
+			"latestReleaseDate": "2024-11-05",
 			"lts": false,
 			"support": true,
 			"extendedSupport": true
@@ -9384,8 +9404,8 @@
 			"cycle": "33",
 			"releaseDate": "2024-10-15",
 			"eol": "2025-04-29",
-			"latest": "33.1.0",
-			"latestReleaseDate": "2024-11-05",
+			"latest": "33.2.0",
+			"latestReleaseDate": "2024-11-07",
 			"chromeVersion": "M130",
 			"nodeVersion": "20.18.0",
 			"lts": false
@@ -9394,8 +9414,8 @@
 			"cycle": "32",
 			"releaseDate": "2024-08-20",
 			"eol": "2025-03-04",
-			"latest": "32.2.2",
-			"latestReleaseDate": "2024-10-23",
+			"latest": "32.2.3",
+			"latestReleaseDate": "2024-11-08",
 			"chromeVersion": "M128",
 			"nodeVersion": "20.16",
 			"lts": false
@@ -14339,8 +14359,8 @@
 			"releaseDate": "2024-05-29",
 			"lts": true,
 			"eol": "2029-04-01",
-			"latest": "3.0.5",
-			"latestReleaseDate": "2024-09-19"
+			"latest": "3.0.6",
+			"latestReleaseDate": "2024-11-07"
 		},
 		{
 			"cycle": "2.9",
@@ -16949,6 +16969,15 @@
 	],
 	"istio": [
 		{
+			"cycle": "1.24",
+			"releaseDate": "2024-11-07",
+			"eol": "2025-08-31",
+			"supportedKubernetesVersions": "1.28 - 1.31",
+			"latest": "1.24.0",
+			"latestReleaseDate": "2024-11-07",
+			"lts": false
+		},
+		{
 			"cycle": "1.23",
 			"releaseDate": "2024-08-14",
 			"eol": "2025-05-31",
@@ -18171,8 +18200,8 @@
 			"cycle": "5",
 			"releaseDate": "2023-10-14",
 			"eol": "2027-10-19",
-			"latest": "5.2.0",
-			"latestReleaseDate": "2024-10-11",
+			"latest": "5.2.1",
+			"latestReleaseDate": "2024-11-05",
 			"link": "https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here",
 			"lts": false,
 			"support": true
@@ -22364,8 +22393,8 @@
 			"cycle": "1.11",
 			"releaseDate": "2024-10-21",
 			"eol": false,
-			"latest": "1.11.0",
-			"latestReleaseDate": "2024-10-21",
+			"latest": "1.11.1",
+			"latestReleaseDate": "2024-11-06",
 			"lts": false
 		},
 		{
@@ -24248,24 +24277,24 @@
 			"cycle": "30",
 			"releaseDate": "2024-09-14",
 			"eol": "2025-09-30",
-			"latest": "30.0.1",
-			"latestReleaseDate": "2024-10-17",
+			"latest": "30.0.2",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
 			"cycle": "29",
 			"releaseDate": "2024-04-24",
 			"eol": "2025-04-30",
-			"latest": "29.0.8",
-			"latestReleaseDate": "2024-10-10",
+			"latest": "29.0.9",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
 			"cycle": "28",
 			"releaseDate": "2023-12-12",
 			"eol": "2024-12-31",
-			"latest": "28.0.11",
-			"latestReleaseDate": "2024-10-10",
+			"latest": "28.0.12",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
@@ -24370,8 +24399,8 @@
 			"cycle": "15",
 			"releaseDate": "2024-10-21",
 			"eol": false,
-			"latest": "15.0.2",
-			"latestReleaseDate": "2024-10-29",
+			"latest": "15.0.3",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
@@ -33012,8 +33041,8 @@
 			"cycle": "4.13",
 			"releaseDate": "2023-05-17",
 			"eol": "2024-11-17",
-			"latest": "4.13.52",
-			"latestReleaseDate": "2024-10-16",
+			"latest": "4.13.53",
+			"latestReleaseDate": "2024-11-06",
 			"lts": false,
 			"support": "2024-01-31",
 			"extendedSupport": false
@@ -33022,8 +33051,8 @@
 			"cycle": "4.12",
 			"releaseDate": "2023-01-17",
 			"eol": "2024-07-17",
-			"latest": "4.12.67",
-			"latestReleaseDate": "2024-10-09",
+			"latest": "4.12.68",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false,
 			"support": "2023-08-17",
 			"extendedSupport": "2025-01-17"
@@ -39373,24 +39402,24 @@
 			"cycle": "9.3",
 			"releaseDate": "2024-07-24",
 			"eol": "2026-07-24",
-			"latest": "9.3.1",
-			"latestReleaseDate": "2024-09-12",
+			"latest": "9.3.2",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
 			"cycle": "9.2",
 			"releaseDate": "2024-01-31",
 			"eol": "2026-01-31",
-			"latest": "9.2.3",
-			"latestReleaseDate": "2024-09-12",
+			"latest": "9.2.4",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
 			"cycle": "9.1",
 			"releaseDate": "2023-06-28",
 			"eol": "2025-06-28",
-			"latest": "9.1.6",
-			"latestReleaseDate": "2024-09-12",
+			"latest": "9.1.7",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
@@ -41284,8 +41313,8 @@
 			"cycle": "3",
 			"releaseDate": "2019-11-15",
 			"eol": false,
-			"latest": "3.14.1",
-			"latestReleaseDate": "2024-11-06",
+			"latest": "3.14.2",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false
 		},
 		{
