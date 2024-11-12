@@ -1826,8 +1826,8 @@
 			"cycle": "6.1",
 			"releaseDate": "2024-03-11",
 			"eol": false,
-			"latest": "6.1.3",
-			"latestReleaseDate": "2024-07-31",
+			"latest": "6.1.4",
+			"latestReleaseDate": "2024-11-08",
 			"link": "https://activemq.apache.org/components/classic/download/classic-06-01-02",
 			"lts": false
 		},
@@ -2608,8 +2608,8 @@
 			"cycle": "4.0",
 			"releaseDate": "2022-01-25",
 			"eol": false,
-			"latest": "4.0.23",
-			"latestReleaseDate": "2024-09-09",
+			"latest": "4.0.24",
+			"latestReleaseDate": "2024-11-05",
 			"lts": false,
 			"support": true
 		},
@@ -2617,8 +2617,8 @@
 			"cycle": "3.0",
 			"releaseDate": "2020-02-10",
 			"eol": false,
-			"latest": "3.0.22",
-			"latestReleaseDate": "2024-06-30",
+			"latest": "3.0.23",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false,
 			"support": false
 		},
@@ -5354,8 +5354,8 @@
 			"releaseDate": "2024-09-13",
 			"supportedPhpVersions": "8.1+",
 			"eol": false,
-			"latest": "5.1.1",
-			"latestReleaseDate": "2024-10-03",
+			"latest": "5.1.2",
+			"latestReleaseDate": "2024-11-09",
 			"lts": false,
 			"support": true
 		},
@@ -6708,8 +6708,8 @@
 			"cycle": "2.17",
 			"releaseDate": "2024-11-05",
 			"eol": false,
-			"latest": "2.17.0",
-			"latestReleaseDate": "2024-11-05",
+			"latest": "2.17.1",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false,
 			"support": true
 		},
@@ -8138,8 +8138,8 @@
 			"releaseDate": "2023-06-10",
 			"eol": "2026-06-10",
 			"link": "https://www.debian.org/News/2024/20240629",
-			"latest": "12.7",
-			"latestReleaseDate": "2024-08-31",
+			"latest": "12.8",
+			"latestReleaseDate": "2024-11-09",
 			"lts": false,
 			"extendedSupport": "2028-06-10"
 		},
@@ -9073,8 +9073,8 @@
 			"eol": false,
 			"supportedPhpVersions": "8.3+",
 			"supportedDrupalVersions": "10.2 - 11",
-			"latest": "13.3.2",
-			"latestReleaseDate": "2024-10-31",
+			"latest": "13.3.3",
+			"latestReleaseDate": "2024-11-10",
 			"lts": false
 		},
 		{
@@ -10957,7 +10957,7 @@
 		{
 			"cycle": "41",
 			"releaseDate": "2024-10-29",
-			"eol": "2025-11-26",
+			"eol": "2025-11-19",
 			"latest": "41",
 			"latestReleaseDate": "2024-10-29",
 			"lts": false
@@ -10965,7 +10965,7 @@
 		{
 			"cycle": "40",
 			"releaseDate": "2024-04-23",
-			"eol": "2025-05-13",
+			"eol": "2025-05-28",
 			"latest": "40",
 			"latestReleaseDate": "2024-04-23",
 			"lts": false
@@ -10973,7 +10973,7 @@
 		{
 			"cycle": "39",
 			"releaseDate": "2023-10-24",
-			"eol": "2024-11-12",
+			"eol": "2024-11-26",
 			"latest": "39",
 			"latestReleaseDate": "2023-11-07",
 			"lts": false
@@ -13702,8 +13702,8 @@
 			"cycle": "10.4",
 			"releaseDate": "2024-03-05",
 			"eol": false,
-			"latest": "10.4.11",
-			"latestReleaseDate": "2024-10-22",
+			"latest": "10.4.12",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false,
 			"support": true
 		},
@@ -14366,8 +14366,8 @@
 			"cycle": "2.9",
 			"releaseDate": "2023-12-05",
 			"eol": "2025-01-01",
-			"latest": "2.9.11",
-			"latestReleaseDate": "2024-09-19",
+			"latest": "2.9.12",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false
 		},
 		{
@@ -14375,8 +14375,8 @@
 			"releaseDate": "2023-05-31",
 			"lts": true,
 			"eol": "2028-04-01",
-			"latest": "2.8.11",
-			"latestReleaseDate": "2024-09-19"
+			"latest": "2.8.12",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "2.7",
@@ -14391,8 +14391,8 @@
 			"releaseDate": "2022-05-31",
 			"lts": true,
 			"eol": "2027-04-01",
-			"latest": "2.6.19",
-			"latestReleaseDate": "2024-09-19"
+			"latest": "2.6.20",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "2.5",
@@ -14407,8 +14407,8 @@
 			"releaseDate": "2021-05-14",
 			"lts": true,
 			"eol": "2026-04-01",
-			"latest": "2.4.27",
-			"latestReleaseDate": "2024-06-18"
+			"latest": "2.4.28",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "2.3",
@@ -14470,10 +14470,10 @@
 	"harbor": [
 		{
 			"cycle": "2.12",
-			"releaseDate": "2024-11-08",
+			"releaseDate": "2024-11-05",
 			"eol": false,
 			"latest": "2.12.0",
-			"latestReleaseDate": "2024-11-08",
+			"latestReleaseDate": "2024-11-05",
 			"lts": false
 		},
 		{
@@ -19916,8 +19916,8 @@
 			"cycle": "24.8",
 			"releaseDate": "2024-07-09",
 			"eol": "2025-06-12",
-			"latest": "24.8.3.1",
-			"latestReleaseDate": "2024-10-28",
+			"latest": "24.8.3.2",
+			"latestReleaseDate": "2024-11-09",
 			"lts": false
 		},
 		{
@@ -20040,8 +20040,8 @@
 			"cycle": "6.11",
 			"releaseDate": "2024-09-15",
 			"eol": "2025-01-15",
-			"latest": "6.11.6",
-			"latestReleaseDate": "2024-11-01",
+			"latest": "6.11.7",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false
 		},
 		{
@@ -20081,8 +20081,8 @@
 			"lts": true,
 			"releaseDate": "2023-10-30",
 			"eol": "2026-12-31",
-			"latest": "6.6.59",
-			"latestReleaseDate": "2024-11-01"
+			"latest": "6.6.60",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "6.5",
@@ -20121,8 +20121,8 @@
 			"lts": true,
 			"releaseDate": "2022-12-11",
 			"eol": "2026-12-31",
-			"latest": "6.1.115",
-			"latestReleaseDate": "2024-11-01"
+			"latest": "6.1.116",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "6.0",
@@ -20169,32 +20169,32 @@
 			"lts": true,
 			"releaseDate": "2021-10-31",
 			"eol": "2026-10-31",
-			"latest": "5.15.170",
-			"latestReleaseDate": "2024-11-01"
+			"latest": "5.15.171",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "5.10",
 			"lts": true,
 			"releaseDate": "2020-12-13",
 			"eol": "2026-12-31",
-			"latest": "5.10.228",
-			"latestReleaseDate": "2024-10-22"
+			"latest": "5.10.229",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "5.4",
 			"lts": true,
 			"releaseDate": "2019-11-25",
 			"eol": "2025-12-31",
-			"latest": "5.4.284",
-			"latestReleaseDate": "2024-09-12"
+			"latest": "5.4.285",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "4.19",
 			"lts": true,
 			"releaseDate": "2018-10-22",
 			"eol": "2024-12-31",
-			"latest": "4.19.322",
-			"latestReleaseDate": "2024-09-12"
+			"latest": "4.19.323",
+			"latestReleaseDate": "2024-11-08"
 		},
 		{
 			"cycle": "4.14",
@@ -22525,8 +22525,8 @@
 			"cycle": "4",
 			"releaseDate": "2023-07-11",
 			"eol": false,
-			"latest": "4.7.2",
-			"latestReleaseDate": "2024-11-04",
+			"latest": "4.7.3",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false,
 			"support": true
 		},
@@ -24465,7 +24465,7 @@
 			"cycle": "3.74",
 			"releaseDate": "2024-11-05",
 			"eol": "2026-05-05",
-			"latest": "3.73.0-05",
+			"latest": "3.74.0-05",
 			"latestReleaseDate": "2024-11-05",
 			"lts": false,
 			"support": "2025-11-05"
@@ -26077,8 +26077,8 @@
 			"cycle": "1.9",
 			"releaseDate": "2024-10-10",
 			"eol": false,
-			"latest": "1.9.1",
-			"latestReleaseDate": "2024-10-21",
+			"latest": "1.9.2",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false
 		},
 		{
@@ -28201,7 +28201,7 @@
 		{
 			"cycle": "1.6",
 			"releaseDate": "2024-01-09",
-			"eol": "2024-07-29",
+			"eol": false,
 			"latest": "1.6.3",
 			"latestReleaseDate": "2024-07-09",
 			"lts": false
@@ -33057,8 +33057,8 @@
 			"cycle": "4.14",
 			"releaseDate": "2023-10-31",
 			"eol": "2025-05-01",
-			"latest": "4.14.39",
-			"latestReleaseDate": "2024-10-23",
+			"latest": "4.14.40",
+			"latestReleaseDate": "2024-11-07",
 			"lts": false,
 			"support": "2024-05-27",
 			"extendedSupport": "2025-10-31"
@@ -41113,8 +41113,8 @@
 			"releaseDate": "2024-10-03",
 			"eol": false,
 			"minJavaVersion": 17,
-			"latest": "11.0.0",
-			"latestReleaseDate": "2024-10-03",
+			"latest": "11.0.1",
+			"latestReleaseDate": "2024-11-06",
 			"lts": false
 		},
 		{
@@ -41140,8 +41140,8 @@
 			"releaseDate": "2017-09-27",
 			"eol": false,
 			"minJavaVersion": 8,
-			"latest": "9.0.96",
-			"latestReleaseDate": "2024-10-03",
+			"latest": "9.0.97",
+			"latestReleaseDate": "2024-11-06",
 			"lts": false
 		},
 		{
@@ -42130,8 +42130,8 @@
 			"cycle": "7.6",
 			"releaseDate": "2024-09-13",
 			"eol": "2025-09-15",
-			"latest": "7.6.0",
-			"latestReleaseDate": "2024-09-13",
+			"latest": "7.6.1",
+			"latestReleaseDate": "2024-11-08",
 			"lts": false
 		},
 		{
