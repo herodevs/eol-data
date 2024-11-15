@@ -42571,10 +42571,19 @@
 	],
 	"visual-studio": [
 		{
+			"cycle": "17.12",
+			"codename": "2022",
+			"lts": true,
+			"releaseDate": "2024-11-12",
+			"eol": "2026-07-14",
+			"latest": "17.12.0",
+			"latestReleaseDate": "2024-11-12"
+		},
+		{
 			"cycle": "17.11",
 			"codename": "2022",
 			"releaseDate": "2024-08-13",
-			"eol": false,
+			"eol": "2024-11-12",
 			"latest": "17.11.6",
 			"latestReleaseDate": "2024-11-12",
 			"lts": false
