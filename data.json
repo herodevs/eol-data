@@ -3543,23 +3543,33 @@
 	],
 	"apple-watch": [
 		{
+			"cycle": "series-10",
+			"releaseLabel": "Series 10",
+			"releaseDate": "2024-09-20",
+			"discontinued": false,
+			"eol": false,
+			"link": "https://support.apple.com/en-us/121202",
+			"supportedWatchOsVersions": 11,
+			"lts": false
+		},
+		{
 			"cycle": "ultra-2",
 			"releaseLabel": "Ultra 2",
 			"releaseDate": "2023-09-22",
 			"discontinued": false,
 			"eol": false,
 			"link": "https://support.apple.com/kb/SP906",
-			"supportedWatchOsVersions": 10,
+			"supportedWatchOsVersions": "10, 11",
 			"lts": false
 		},
 		{
 			"cycle": "series-9",
 			"releaseLabel": "Series 9",
 			"releaseDate": "2023-09-22",
-			"discontinued": false,
+			"discontinued": "2024-09-12",
 			"eol": false,
 			"link": "https://support.apple.com/kb/SP905",
-			"supportedWatchOsVersions": 10,
+			"supportedWatchOsVersions": "10, 11",
 			"lts": false
 		},
 		{
@@ -3569,7 +3579,7 @@
 			"discontinued": "2023-09-12",
 			"eol": false,
 			"link": "https://support.apple.com/kb/SP879",
-			"supportedWatchOsVersions": "9, 10",
+			"supportedWatchOsVersions": "9, 10, 11",
 			"lts": false
 		},
 		{
@@ -3579,7 +3589,7 @@
 			"discontinued": "2023-09-12",
 			"eol": false,
 			"link": "https://support.apple.com/kb/SP878",
-			"supportedWatchOsVersions": "9, 10",
+			"supportedWatchOsVersions": "9, 10, 11",
 			"lts": false
 		},
 		{
@@ -3589,7 +3599,7 @@
 			"discontinued": false,
 			"eol": false,
 			"link": "https://support.apple.com/kb/SP877",
-			"supportedWatchOsVersions": "9, 10",
+			"supportedWatchOsVersions": "9, 10, 11",
 			"lts": false
 		},
 		{
@@ -3599,7 +3609,7 @@
 			"discontinued": "2022-09-07",
 			"eol": false,
 			"link": "https://support.apple.com/kb/SP860",
-			"supportedWatchOsVersions": "8, 9, 10",
+			"supportedWatchOsVersions": "8, 9, 10, 11",
 			"lts": false
 		},
 		{
@@ -3609,7 +3619,7 @@
 			"discontinued": "2021-10-14",
 			"eol": false,
 			"link": "https://support.apple.com/kb/SP826",
-			"supportedWatchOsVersions": "7, 8, 9, 10",
+			"supportedWatchOsVersions": "7, 8, 9, 10, 11",
 			"lts": false
 		},
 		{
@@ -3617,7 +3627,7 @@
 			"releaseLabel": "SE (1st generation)",
 			"releaseDate": "2020-09-18",
 			"discontinued": "2022-09-07",
-			"eol": false,
+			"eol": "2024-09-16",
 			"link": "https://support.apple.com/kb/SP827",
 			"supportedWatchOsVersions": "7, 8, 9, 10",
 			"lts": false
@@ -3627,7 +3637,7 @@
 			"releaseLabel": "Series 5",
 			"releaseDate": "2019-09-20",
 			"discontinued": "2020-09-15",
-			"eol": false,
+			"eol": "2024-09-16",
 			"link": "https://support.apple.com/kb/SP808",
 			"supportedWatchOsVersions": "6, 7, 8, 9, 10",
 			"lts": false
@@ -3637,7 +3647,7 @@
 			"releaseLabel": "Series 4",
 			"releaseDate": "2018-09-21",
 			"discontinued": "2019-09-10",
-			"eol": false,
+			"eol": "2024-09-16",
 			"link": "https://support.apple.com/kb/SP778",
 			"supportedWatchOsVersions": "5, 6, 7, 8, 9, 10",
 			"lts": false
@@ -11760,9 +11770,17 @@
 	],
 	"fluent-bit": [
 		{
+			"cycle": "3.2",
+			"releaseDate": "2024-11-12",
+			"eol": false,
+			"latest": "3.2.0",
+			"latestReleaseDate": "2024-11-12",
+			"lts": false
+		},
+		{
 			"cycle": "3.1",
 			"releaseDate": "2024-07-08",
-			"eol": false,
+			"eol": "2025-02-12",
 			"latest": "3.1.10",
 			"latestReleaseDate": "2024-11-04",
 			"lts": false
@@ -23521,12 +23539,12 @@
 		{
 			"cycle": "16.0",
 			"codename": "Dallas",
-			"releaseLabel": "2022 CU15+GDR",
+			"releaseLabel": "2022 CU16",
 			"releaseDate": "2022-11-16",
 			"eol": "2033-01-11",
-			"latest": "16.0.4150.1",
-			"latestReleaseDate": "2024-10-08",
-			"link": "https://support.microsoft.com/help/5046059",
+			"latest": "16.0.4165.4",
+			"latestReleaseDate": "2024-11-14",
+			"link": "https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate16",
 			"lts": false,
 			"support": "2028-01-11",
 			"extendedSupport": false
@@ -23550,9 +23568,9 @@
 			"releaseLabel": "2017 CU31+GDR",
 			"releaseDate": "2017-09-29",
 			"eol": "2027-10-12",
-			"latest": "14.0.3480.1",
-			"latestReleaseDate": "2024-10-08",
-			"link": "https://support.microsoft.com/help/5046061",
+			"latest": "14.0.3485.1",
+			"latestReleaseDate": "2024-11-12",
+			"link": "https://support.microsoft.com/help/5046858",
 			"lts": false,
 			"support": "2022-10-11",
 			"extendedSupport": false
@@ -23563,9 +23581,9 @@
 			"releaseLabel": "2016 SP3+GDR",
 			"releaseDate": "2016-06-01",
 			"eol": "2026-07-14",
-			"latest": "13.0.6450.1",
-			"latestReleaseDate": "2024-10-08",
-			"link": "https://support.microsoft.com/help/5046063",
+			"latest": "13.0.6455.2",
+			"latestReleaseDate": "2024-11-12",
+			"link": "https://support.microsoft.com/help/5046855",
 			"lts": false,
 			"support": "2021-07-13",
 			"extendedSupport": false
@@ -29163,8 +29181,8 @@
 			"cycle": "6.2",
 			"releaseDate": "2023-05-23",
 			"eol": "2025-12-31",
-			"latest": "6.2.5-c788",
-			"latestReleaseDate": "2024-10-14",
+			"latest": "6.2.6",
+			"latestReleaseDate": "2024-11-12",
 			"link": "https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues",
 			"lts": false,
 			"support": "2025-12-31"
@@ -30391,9 +30409,17 @@
 	],
 	"podman": [
 		{
+			"cycle": "5.3",
+			"releaseDate": "2024-11-12",
+			"eol": false,
+			"latest": "5.3.0",
+			"latestReleaseDate": "2024-11-12",
+			"lts": false
+		},
+		{
 			"cycle": "5.2",
 			"releaseDate": "2024-08-01",
-			"eol": false,
+			"eol": "2024-11-12",
 			"latest": "5.2.5",
 			"latestReleaseDate": "2024-10-18",
 			"lts": false
@@ -30401,7 +30427,7 @@
 		{
 			"cycle": "5.1",
 			"releaseDate": "2024-05-29",
-			"eol": true,
+			"eol": "2024-08-01",
 			"latest": "5.1.2",
 			"latestReleaseDate": "2024-07-10",
 			"lts": false
@@ -30409,7 +30435,7 @@
 		{
 			"cycle": "5.0",
 			"releaseDate": "2024-03-19",
-			"eol": true,
+			"eol": "2024-05-29",
 			"latest": "5.0.3",
 			"latestReleaseDate": "2024-05-10",
 			"lts": false
@@ -31161,6 +31187,14 @@
 		}
 	],
 	"prometheus": [
+		{
+			"cycle": "3.0",
+			"releaseDate": "2024-11-14",
+			"eol": "2024-12-26",
+			"latest": "3.0.0",
+			"latestReleaseDate": "2024-11-14",
+			"lts": false
+		},
 		{
 			"cycle": "2.55",
 			"releaseDate": "2024-10-22",
@@ -44944,10 +44978,19 @@
 	],
 	"wordpress": [
 		{
+			"cycle": "6.7",
+			"supportedPHPVersions": "7.2 - 8.3",
+			"releaseDate": "2024-11-12",
+			"eol": false,
+			"latest": "6.7.0",
+			"latestReleaseDate": "2024-11-12",
+			"lts": false
+		},
+		{
 			"cycle": "6.6",
 			"supportedPHPVersions": "7.2 - 8.3",
 			"releaseDate": "2024-07-16",
-			"eol": false,
+			"eol": "2024-11-12",
 			"latest": "6.6.2",
 			"latestReleaseDate": "2024-09-10",
 			"lts": false
