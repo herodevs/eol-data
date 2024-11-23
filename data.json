@@ -11462,7 +11462,7 @@
 		{
 			"cycle": "19",
 			"releaseDate": "2020-05-31",
-			"eol": "2022-05-31",
+			"eol": "2024-12-31",
 			"link": "https://support.claris.com/s/answerview?anum=000036046",
 			"lts": false
 		},
@@ -28328,16 +28328,16 @@
 			"cycle": "1.8",
 			"releaseDate": "2024-07-29",
 			"eol": false,
-			"latest": "1.8.5",
-			"latestReleaseDate": "2024-11-04",
+			"latest": "1.8.6",
+			"latestReleaseDate": "2024-11-22",
 			"lts": false
 		},
 		{
 			"cycle": "1.7",
 			"releaseDate": "2024-04-30",
 			"eol": false,
-			"latest": "1.7.5",
-			"latestReleaseDate": "2024-11-04",
+			"latest": "1.7.6",
+			"latestReleaseDate": "2024-11-22",
 			"lts": false
 		},
 		{

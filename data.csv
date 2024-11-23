@@ -1246,7 +1246,7 @@ ffmpeg,0.6.7,,2013-09-23
 ffmpeg,0.5.15,,2014-11-29
 filemaker,,,2026-06-30
 filemaker,,,2025-04-30
-filemaker,,,2022-05-31
+filemaker,,,2024-12-31
 filemaker,,,2021-06-25
 filemaker,,,2020-09-18
 filemaker,,,2020-09-18
@@ -3197,8 +3197,8 @@ opensuse,,,2012-01-20
 opensuse,,,2011-05-12
 opensuse,,,2011-01-14
 opensuse,,,2010-07-26
-opentofu,1.8.5,2024-11-04,false
-opentofu,1.7.5,2024-11-04,false
+opentofu,1.8.6,2024-11-22,false
+opentofu,1.7.6,2024-11-22,false
 opentofu,1.6.3,2024-07-09,false
 openvpn,2.6.12,2024-07-17,false
 openvpn,2.5.11,2024-07-18,false
