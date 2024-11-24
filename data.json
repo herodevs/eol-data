@@ -40575,13 +40575,23 @@
 	],
 	"svelte": [
 		{
+			"cycle": "5.2",
+			"releaseDate": "2024-11-14",
+			"eol": false,
+			"latest": "5.2.7",
+			"latestReleaseDate": "2024-11-20",
+			"lts": false,
+			"support": true,
+			"extendedSupport": false
+		},
+		{
 			"cycle": "5.1",
 			"releaseDate": "2024-10-23",
-			"eol": false,
+			"eol": "2024-11-14",
 			"latest": "5.1.13",
 			"latestReleaseDate": "2024-11-08",
 			"lts": false,
-			"support": true,
+			"support": "2024-11-14",
 			"extendedSupport": false
 		},
 		{
@@ -42181,6 +42191,15 @@
 		}
 	],
 	"umbraco": [
+		{
+			"cycle": "15",
+			"releaseDate": "2024-11-14",
+			"eol": "2025-11-14",
+			"latest": "15.0.0",
+			"latestReleaseDate": "2024-11-14",
+			"lts": false,
+			"support": "2025-08-14"
+		},
 		{
 			"cycle": "14",
 			"releaseDate": "2024-05-30",
