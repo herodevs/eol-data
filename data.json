@@ -341,8 +341,8 @@
 			"cycle": "2",
 			"releaseDate": "2021-12-01",
 			"eol": false,
-			"latest": "2.170.0",
-			"latestReleaseDate": "2024-11-22",
+			"latest": "2.171.0",
+			"latestReleaseDate": "2024-11-25",
 			"lts": false,
 			"support": true
 		}
@@ -5410,8 +5410,8 @@
 			"cycle": "1",
 			"releaseDate": "2023-09-07",
 			"eol": false,
-			"latest": "1.1.36",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "1.1.37",
+			"latestReleaseDate": "2024-11-25",
 			"lts": false
 		}
 	],
@@ -17121,8 +17121,8 @@
 			"releaseDate": "2024-11-07",
 			"eol": "2025-08-31",
 			"supportedKubernetesVersions": "1.28 - 1.31",
-			"latest": "1.24.0",
-			"latestReleaseDate": "2024-11-07",
+			"latest": "1.24.1",
+			"latestReleaseDate": "2024-11-25",
 			"lts": false
 		},
 		{
@@ -39775,6 +39775,16 @@
 	],
 	"spring-boot": [
 		{
+			"cycle": "3.4",
+			"supportedJavaVersions": "17 - 23",
+			"releaseDate": "2024-11-21",
+			"eol": "2025-11-21",
+			"latest": "3.4.0",
+			"latestReleaseDate": "2024-11-21",
+			"lts": false,
+			"extendedSupport": "2027-02-21"
+		},
+		{
 			"cycle": "3.3",
 			"supportedJavaVersions": "17 - 22",
 			"releaseDate": "2024-05-23",
@@ -40634,8 +40644,8 @@
 			"cycle": "5.2",
 			"releaseDate": "2024-11-14",
 			"eol": false,
-			"latest": "5.2.7",
-			"latestReleaseDate": "2024-11-20",
+			"latest": "5.2.8",
+			"latestReleaseDate": "2024-11-25",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
@@ -42400,8 +42410,8 @@
 			"cycle": "2021.3",
 			"releaseDate": "2022-04-11",
 			"eol": "2024-04-19",
-			"latest": "2021.3.44f1",
-			"latestReleaseDate": "2024-09-23",
+			"latest": "2021.3.46f1",
+			"latestReleaseDate": "2024-11-13",
 			"lts": false
 		},
 		{
@@ -45635,8 +45645,8 @@
 			"cycle": "4",
 			"releaseDate": "2023-10-22",
 			"eol": false,
-			"latest": "4.5.2",
-			"latestReleaseDate": "2024-11-22",
+			"latest": "4.5.3",
+			"latestReleaseDate": "2024-11-25",
 			"lts": false
 		},
 		{
