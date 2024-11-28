@@ -1327,8 +1327,8 @@
 			"cycle": "19",
 			"releaseDate": "2024-11-19",
 			"eol": "2026-05-19",
-			"latest": "19.0.0",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "19.0.1",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2025-05-19",
 			"extendedSupport": true
@@ -1337,8 +1337,8 @@
 			"cycle": "18",
 			"releaseDate": "2024-05-22",
 			"eol": "2025-11-19",
-			"latest": "18.2.12",
-			"latestReleaseDate": "2024-11-14",
+			"latest": "18.2.13",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2024-11-19",
 			"extendedSupport": true
@@ -9208,8 +9208,8 @@
 			"eol": "2025-01-31",
 			"supportedPhpVersions": "5.4.5+",
 			"supportedDrupalVersions": "7 - 8",
-			"latest": "8.4.12",
-			"latestReleaseDate": "2023-03-15",
+			"latest": "8.5.0",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false
 		},
 		{
@@ -11607,8 +11607,8 @@
 			"lts": true,
 			"releaseDate": "2024-07-09",
 			"eol": "2025-09-16",
-			"latest": "128.4.0",
-			"latestReleaseDate": "2024-10-29"
+			"latest": "128.5.0",
+			"latestReleaseDate": "2024-11-26"
 		},
 		{
 			"cycle": "127",
@@ -12431,24 +12431,24 @@
 			"cycle": "3.10",
 			"releaseDate": "2024-05-17",
 			"eol": false,
-			"latest": "3.10.2",
-			"latestReleaseDate": "2024-10-09",
+			"latest": "3.10.3",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false
 		},
 		{
 			"cycle": "3.9",
 			"releaseDate": "2023-11-25",
 			"eol": false,
-			"latest": "3.9.7",
-			"latestReleaseDate": "2024-10-09",
+			"latest": "3.9.8",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false
 		},
 		{
 			"cycle": "3.8",
 			"releaseDate": "2023-05-19",
 			"eol": false,
-			"latest": "3.8.9",
-			"latestReleaseDate": "2024-10-09",
+			"latest": "3.8.10",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false
 		},
 		{
@@ -12553,8 +12553,8 @@
 			"cycle": "17.6",
 			"releaseDate": "2024-11-21",
 			"eol": "2025-02-20",
-			"latest": "17.6.0",
-			"latestReleaseDate": "2024-11-20",
+			"latest": "17.6.1",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2024-12-19"
 		},
@@ -12562,8 +12562,8 @@
 			"cycle": "17.5",
 			"releaseDate": "2024-10-17",
 			"eol": "2025-01-16",
-			"latest": "17.5.2",
-			"latestReleaseDate": "2024-11-12",
+			"latest": "17.5.3",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2024-11-21"
 		},
@@ -12571,8 +12571,8 @@
 			"cycle": "17.4",
 			"releaseDate": "2024-09-19",
 			"eol": "2024-12-19",
-			"latest": "17.4.4",
-			"latestReleaseDate": "2024-11-12",
+			"latest": "17.4.5",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2024-10-17"
 		},
@@ -18357,8 +18357,8 @@
 			"cycle": "5",
 			"releaseDate": "2023-10-14",
 			"eol": "2027-10-19",
-			"latest": "5.2.1",
-			"latestReleaseDate": "2024-11-05",
+			"latest": "5.2.2",
+			"latestReleaseDate": "2024-11-19",
 			"link": "https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here",
 			"lts": false,
 			"support": true
@@ -18509,8 +18509,8 @@
 			"cycle": "6.2",
 			"releaseDate": "2024-10-08",
 			"eol": false,
-			"latest": "6.2.3",
-			"latestReleaseDate": "2024-11-05",
+			"latest": "6.2.4",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": true
 		},
@@ -19991,8 +19991,8 @@
 			"releaseDate": "2024-03-12",
 			"eol": "2026-03-12",
 			"supportedPhpVersions": "8.2 - 8.3",
-			"latest": "11.33.2",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "11.34.1",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2025-09-03"
 		},
@@ -20001,8 +20001,8 @@
 			"releaseDate": "2023-02-14",
 			"eol": "2025-02-04",
 			"supportedPhpVersions": "8.1 - 8.3",
-			"latest": "10.48.24",
-			"latestReleaseDate": "2024-11-20",
+			"latest": "10.48.25",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2024-08-06"
 		},
@@ -21700,10 +21700,10 @@
 	"mariadb": [
 		{
 			"cycle": "11.6",
-			"releaseDate": "2024-11-21",
+			"releaseDate": "2024-11-13",
 			"eol": false,
 			"latest": "11.6.2",
-			"latestReleaseDate": "2024-11-21",
+			"latestReleaseDate": "2024-11-13",
 			"lts": false
 		},
 		{
@@ -25073,8 +25073,8 @@
 			"releaseDate": "2024-05-28",
 			"eol": false,
 			"link": "https://nginx.org/en/CHANGES",
-			"latest": "1.27.2",
-			"latestReleaseDate": "2024-10-02",
+			"latest": "1.27.3",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false
 		},
 		{
@@ -26981,6 +26981,26 @@
 	],
 	"nvidia": [
 		{
+			"cycle": "R565-Linux (NFB)",
+			"releaseDate": "2024-10-29",
+			"eol": "2025-10-01",
+			"latest": "565.57.01",
+			"latestReleaseDate": "2024-10-29",
+			"link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/",
+			"lts": false,
+			"support": true
+		},
+		{
+			"cycle": "R565-Windows (NFB)",
+			"releaseDate": "2024-10-22",
+			"eol": "2025-10-01",
+			"latest": "566.03",
+			"latestReleaseDate": "2024-10-22",
+			"link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/",
+			"lts": false,
+			"support": true
+		},
+		{
 			"cycle": "R560-Linux (NFB)",
 			"releaseDate": "2024-08-21",
 			"eol": "2025-08-01",
@@ -27024,9 +27044,9 @@
 			"cycle": "R550-Linux (PB)",
 			"releaseDate": "2024-02-23",
 			"eol": "2025-02-01",
-			"latest": "550.90.12",
-			"latestReleaseDate": "2024-09-10",
-			"link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-90-12/",
+			"latest": "550.127.08",
+			"latestReleaseDate": "2024-11-19",
+			"link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-127-08/",
 			"lts": false,
 			"support": "2025-02-01"
 		},
@@ -27065,9 +27085,9 @@
 			"lts": true,
 			"releaseDate": "2023-06-14",
 			"eol": "2026-06-01",
-			"latest": "535.183.06",
-			"latestReleaseDate": "2024-07-09",
-			"link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-183-06/",
+			"latest": "535.216.03",
+			"latestReleaseDate": "2024-11-19",
+			"link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-216-03/",
 			"support": "2024-06-01"
 		},
 		{
@@ -30380,8 +30400,8 @@
 			"cycle": "18.0.65",
 			"releaseDate": "2024-10-29",
 			"eol": "2025-01-21",
-			"latest": "18.0.65.1",
-			"latestReleaseDate": "2024-11-11",
+			"latest": "18.0.65.2",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false
 		},
 		{
@@ -32732,6 +32752,14 @@
 	],
 	"raspberry-pi": [
 		{
+			"cycle": "CM5",
+			"releaseLabel": "Compute Module 5",
+			"releaseDate": "2024-11-27",
+			"discontinued": "2034-01-01",
+			"link": "https://www.raspberrypi.com/products/compute-module-5",
+			"lts": false
+		},
+		{
 			"cycle": "5",
 			"releaseLabel": "5",
 			"releaseDate": "2023-10-23",
@@ -33269,8 +33297,8 @@
 			"cycle": "4.16",
 			"releaseDate": "2024-06-27",
 			"eol": "2025-12-27",
-			"latest": "4.16.23",
-			"latestReleaseDate": "2024-11-20",
+			"latest": "4.16.24",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2025-01-01",
 			"extendedSupport": "2026-06-27"
@@ -33279,8 +33307,8 @@
 			"cycle": "4.15",
 			"releaseDate": "2024-02-27",
 			"eol": "2025-08-27",
-			"latest": "4.15.38",
-			"latestReleaseDate": "2024-11-13",
+			"latest": "4.15.39",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": "2024-09-27",
 			"extendedSupport": false
@@ -40644,8 +40672,8 @@
 			"cycle": "5.2",
 			"releaseDate": "2024-11-14",
 			"eol": false,
-			"latest": "5.2.8",
-			"latestReleaseDate": "2024-11-25",
+			"latest": "5.2.9",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
@@ -42924,8 +42952,8 @@
 			"lts": true,
 			"releaseDate": "2024-11-12",
 			"eol": "2026-07-14",
-			"latest": "17.12.1",
-			"latestReleaseDate": "2024-11-19"
+			"latest": "17.12.2",
+			"latestReleaseDate": "2024-11-26"
 		},
 		{
 			"cycle": "17.11",
