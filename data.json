@@ -341,8 +341,8 @@
 			"cycle": "2",
 			"releaseDate": "2021-12-01",
 			"eol": false,
-			"latest": "2.171.0",
-			"latestReleaseDate": "2024-11-25",
+			"latest": "2.171.1",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": true
 		}
@@ -5853,8 +5853,8 @@
 			"releaseDate": "2024-10-31",
 			"lts": "2027-10-31",
 			"eol": "2027-10-31",
-			"latest": "24.10.1",
-			"latestReleaseDate": "2024-11-08",
+			"latest": "24.10.2",
+			"latestReleaseDate": "2024-11-27",
 			"link": "https://docs.centreon.com/docs/releases/centreon-os/",
 			"support": "2025-10-31"
 		},
@@ -9489,8 +9489,8 @@
 			"cycle": "33",
 			"releaseDate": "2024-10-15",
 			"eol": "2025-04-29",
-			"latest": "33.2.0",
-			"latestReleaseDate": "2024-11-07",
+			"latest": "33.2.1",
+			"latestReleaseDate": "2024-11-27",
 			"chromeVersion": "M130",
 			"nodeVersion": "20.18.0",
 			"lts": false
@@ -9499,8 +9499,8 @@
 			"cycle": "32",
 			"releaseDate": "2024-08-20",
 			"eol": "2025-03-04",
-			"latest": "32.2.5",
-			"latestReleaseDate": "2024-11-15",
+			"latest": "32.2.6",
+			"latestReleaseDate": "2024-11-27",
 			"chromeVersion": "M128",
 			"nodeVersion": "20.16",
 			"lts": false
@@ -11848,8 +11848,8 @@
 			"cycle": "3.2",
 			"releaseDate": "2024-11-12",
 			"eol": false,
-			"latest": "3.2.1",
-			"latestReleaseDate": "2024-11-16",
+			"latest": "3.2.2",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false
 		},
 		{
@@ -13222,8 +13222,8 @@
 			"cycle": "1.31",
 			"releaseDate": "2024-10-25",
 			"eol": "2025-12-22",
-			"latest": "1.31.2-gke.1518000",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "1.31.3-gke.1006000",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": "2025-09-30"
 		},
@@ -13231,8 +13231,8 @@
 			"cycle": "1.30",
 			"releaseDate": "2024-07-31",
 			"eol": "2025-09-30",
-			"latest": "1.30.6-gke.1125000",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "1.30.6-gke.1596000",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": "2025-07-31"
 		},
@@ -13240,8 +13240,8 @@
 			"cycle": "1.29",
 			"releaseDate": "2024-01-26",
 			"eol": "2025-03-21",
-			"latest": "1.29.10-gke.1227000",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "1.29.10-gke.1280000",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": "2025-01-31"
 		},
@@ -13249,8 +13249,8 @@
 			"cycle": "1.28",
 			"releaseDate": "2023-12-04",
 			"eol": "2025-02-04",
-			"latest": "1.28.15-gke.1159000",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "1.28.15-gke.1342000",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": "2024-12-31"
 		},
@@ -13258,8 +13258,8 @@
 			"cycle": "1.27",
 			"releaseDate": "2023-06-15",
 			"eol": "2024-08-31",
-			"latest": "1.27.16-gke.1836000",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "1.27.16-gke.2019000",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": "2024-06-30"
 		},
@@ -16024,8 +16024,8 @@
 			"maxAngularVersion": "v18.x",
 			"supportedReactVersions": "v17+",
 			"supportedVueVersions": "v3.0.6+",
-			"latest": "8.4.0",
-			"latestReleaseDate": "2024-11-04",
+			"latest": "8.4.1",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": true,
 			"extendedSupport": true
@@ -17354,8 +17354,8 @@
 			"releaseLabel": "Regular",
 			"releaseDate": "2016-04-20",
 			"eol": false,
-			"latest": "2.486",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "2.487",
+			"latestReleaseDate": "2024-11-25",
 			"lts": false
 		},
 		{
@@ -20007,8 +20007,8 @@
 			"releaseDate": "2024-03-12",
 			"eol": "2026-03-12",
 			"supportedPhpVersions": "8.2 - 8.3",
-			"latest": "11.34.1",
-			"latestReleaseDate": "2024-11-26",
+			"latest": "11.34.2",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": "2025-09-03"
 		},
@@ -22795,8 +22795,8 @@
 			"cycle": "8.0",
 			"releaseDate": "2024-09-11",
 			"eol": false,
-			"latest": "8.0.3",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "8.0.4",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false
 		},
 		{
@@ -32056,10 +32056,10 @@
 		{
 			"cycle": "3.17",
 			"lts": false,
-			"releaseDate": "2024-11-28",
+			"releaseDate": "2024-11-27",
 			"eol": false,
 			"latest": "3.17.0",
-			"latestReleaseDate": "2024-11-28",
+			"latestReleaseDate": "2024-11-27",
 			"extendedSupport": false
 		},
 		{
@@ -33312,8 +33312,8 @@
 			"cycle": "4.17",
 			"releaseDate": "2024-10-01",
 			"eol": "2026-04-01",
-			"latest": "4.17.5",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "4.17.6",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
@@ -40697,8 +40697,8 @@
 			"cycle": "5.2",
 			"releaseDate": "2024-11-14",
 			"eol": false,
-			"latest": "5.2.9",
-			"latestReleaseDate": "2024-11-26",
+			"latest": "5.2.10",
+			"latestReleaseDate": "2024-11-28",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
@@ -40789,8 +40789,8 @@
 			"cycle": "7.1",
 			"releaseDate": "2024-05-31",
 			"eol": "2025-01-31",
-			"latest": "7.1.8",
-			"latestReleaseDate": "2024-11-13",
+			"latest": "7.1.9",
+			"latestReleaseDate": "2024-11-27",
 			"lts": false,
 			"support": "2025-01-31"
 		},
@@ -40808,8 +40808,8 @@
 			"lts": true,
 			"releaseDate": "2023-11-29",
 			"eol": "2027-11-30",
-			"latest": "6.4.15",
-			"latestReleaseDate": "2024-11-13",
+			"latest": "6.4.16",
+			"latestReleaseDate": "2024-11-27",
 			"support": "2026-11-30"
 		},
 		{
@@ -40853,8 +40853,8 @@
 			"lts": true,
 			"releaseDate": "2021-11-29",
 			"eol": "2029-02-28",
-			"latest": "5.4.47",
-			"latestReleaseDate": "2024-11-13",
+			"latest": "5.4.48",
+			"latestReleaseDate": "2024-11-27",
 			"support": "2024-11-30"
 		},
 		{
@@ -41452,10 +41452,10 @@
 	"terraform": [
 		{
 			"cycle": "1.10",
-			"releaseDate": "2024-11-27",
+			"releaseDate": "2024-11-26",
 			"eol": false,
 			"latest": "1.10.0",
-			"latestReleaseDate": "2024-11-27",
+			"latestReleaseDate": "2024-11-26",
 			"lts": false
 		},
 		{
@@ -45788,8 +45788,8 @@
 			"lts": true,
 			"releaseDate": "2022-04-25",
 			"eol": "2026-04-27",
-			"latest": "4.0.22",
-			"latestReleaseDate": "2024-10-24"
+			"latest": "4.0.23",
+			"latestReleaseDate": "2024-11-27"
 		},
 		{
 			"cycle": "3.4",
