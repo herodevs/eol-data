@@ -35303,6 +35303,30 @@
 			"support": "2031-01-24"
 		},
 		{
+			"cycle": "Galaxy A25 5G",
+			"releaseDate": "2023-12-11",
+			"eol": "2028-12-11",
+			"link": "https://doc.samsungmobile.com/SM-A256E/CHT/doc.html",
+			"lts": false,
+			"support": "2027-12-11"
+		},
+		{
+			"cycle": "Galaxy A15 5G",
+			"releaseDate": "2023-12-11",
+			"eol": "2028-12-11",
+			"link": "https://doc.samsungmobile.com/SM-A156B/EUX/doc.html",
+			"lts": false,
+			"support": "2027-12-11"
+		},
+		{
+			"cycle": "Galaxy A15",
+			"releaseDate": "2023-12-11",
+			"eol": "2028-12-11",
+			"link": "https://doc.samsungmobile.com/SM-A155F/EUX/doc.html",
+			"lts": false,
+			"support": "2027-12-11"
+		},
+		{
 			"cycle": "Galaxy Tab S9 FE",
 			"releaseDate": "2023-10-16",
 			"eol": false,
