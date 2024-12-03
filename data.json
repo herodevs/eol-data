@@ -3398,8 +3398,8 @@
 			"cycle": "6",
 			"releaseDate": "2022-06-02",
 			"eol": false,
-			"latest": "6.6.1",
-			"latestReleaseDate": "2024-10-05",
+			"latest": "6.7.0",
+			"latestReleaseDate": "2024-11-17",
 			"lts": false
 		},
 		{
@@ -4790,9 +4790,9 @@
 			"releaseLabel": "2022 Update 2",
 			"releaseDate": "2024-07-09",
 			"eol": "2033-01-11",
-			"latest": "2022.2",
-			"latestReleaseDate": "2024-07-09",
-			"link": "https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-20222-rtw-release-date-july-9-2024",
+			"latest": "2022.2patch2",
+			"latestReleaseDate": "2024-11-12",
+			"link": "https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-2-release-date-november-12-2024",
 			"lts": false,
 			"support": "2028-01-11"
 		},
@@ -4823,9 +4823,9 @@
 			"releaseLabel": "2020 Update 1",
 			"releaseDate": "2021-05-25",
 			"eol": "2030-10-08",
-			"latest": "2020.1.2patch13",
-			"latestReleaseDate": "2024-03-12",
-			"link": "https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-13-release-date-march-12-2024",
+			"latest": "2020.1.2patch14",
+			"latestReleaseDate": "2024-11-12",
+			"link": "https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-14-release-date-november-12-2024",
 			"lts": false,
 			"support": "2025-10-14"
 		},
@@ -5410,8 +5410,8 @@
 			"cycle": "1",
 			"releaseDate": "2023-09-07",
 			"eol": false,
-			"latest": "1.1.37",
-			"latestReleaseDate": "2024-11-25",
+			"latest": "1.1.38",
+			"latestReleaseDate": "2024-11-28",
 			"lts": false
 		}
 	],
@@ -6492,9 +6492,9 @@
 			"releaseDate": "2019-12-18",
 			"lts": true,
 			"eol": "2024-12-18",
-			"latest": "1912 CU9",
-			"latestReleaseDate": "2024-04-30",
-			"link": "https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-9.html",
+			"latest": "1912 CU10",
+			"latestReleaseDate": "2024-11-25",
+			"link": "https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html",
 			"support": "2024-12-18",
 			"extendedSupport": "2029-12-18"
 		},
@@ -11615,8 +11615,8 @@
 			"lts": true,
 			"releaseDate": "2024-07-09",
 			"eol": "2025-09-16",
-			"latest": "128.5.0",
-			"latestReleaseDate": "2024-11-26"
+			"latest": "128.5.1",
+			"latestReleaseDate": "2024-11-29"
 		},
 		{
 			"cycle": "127",
@@ -20090,8 +20090,8 @@
 			"cycle": "24.8",
 			"releaseDate": "2024-07-09",
 			"eol": "2025-06-12",
-			"latest": "24.8.3.2",
-			"latestReleaseDate": "2024-11-09",
+			"latest": "24.8.4.1",
+			"latestReleaseDate": "2024-11-30",
 			"lts": false
 		},
 		{
@@ -30563,8 +30563,8 @@
 			"cycle": "9",
 			"releaseDate": "2024-04-16",
 			"eol": false,
-			"latest": "9.14.3",
-			"latestReleaseDate": "2024-11-28",
+			"latest": "9.14.4",
+			"latestReleaseDate": "2024-11-29",
 			"lts": false
 		},
 		{
@@ -31910,8 +31910,8 @@
 			"lts": true,
 			"releaseDate": "2024-10-07",
 			"eol": "2025-04-08",
-			"latest": "6.8.0",
-			"latestReleaseDate": "2024-10-07",
+			"latest": "6.8.1",
+			"latestReleaseDate": "2024-12-02",
 			"extendedSupport": "2027-10-08"
 		},
 		{
@@ -32058,8 +32058,8 @@
 			"lts": false,
 			"releaseDate": "2024-11-27",
 			"eol": false,
-			"latest": "3.17.0",
-			"latestReleaseDate": "2024-11-27",
+			"latest": "3.17.2",
+			"latestReleaseDate": "2024-11-29",
 			"extendedSupport": false
 		},
 		{
@@ -39162,7 +39162,7 @@
 	"silverstripe": [
 		{
 			"cycle": "5.3",
-			"releaseDate": "2024-11-04",
+			"releaseDate": "2024-11-30",
 			"eol": "2025-10-31",
 			"latest": "5.3.0",
 			"latestReleaseDate": "2024-11-04",
@@ -39722,8 +39722,8 @@
 			"releaseDate": "2021-07-05",
 			"eol": false,
 			"lts": "2023-02-07",
-			"latest": "9.9.7",
-			"latestReleaseDate": "2024-09-27",
+			"latest": "9.9.8",
+			"latestReleaseDate": "2024-11-25",
 			"link": "https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/",
 			"support": "2023-03-30"
 		},
@@ -40729,8 +40729,8 @@
 			"cycle": "5.2",
 			"releaseDate": "2024-11-14",
 			"eol": false,
-			"latest": "5.2.10",
-			"latestReleaseDate": "2024-11-28",
+			"latest": "5.2.12",
+			"latestReleaseDate": "2024-11-30",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
@@ -40894,8 +40894,8 @@
 			"lts": true,
 			"releaseDate": "2021-11-29",
 			"eol": "2029-02-28",
-			"latest": "5.4.48",
-			"latestReleaseDate": "2024-11-27",
+			"latest": "5.4.49",
+			"latestReleaseDate": "2024-11-29",
 			"support": "2024-11-30"
 		},
 		{
@@ -41812,8 +41812,8 @@
 			"cycle": "3",
 			"releaseDate": "2019-11-15",
 			"eol": false,
-			"latest": "3.15.0",
-			"latestReleaseDate": "2024-11-17",
+			"latest": "3.16.0",
+			"latestReleaseDate": "2024-11-29",
 			"lts": false
 		},
 		{
@@ -44205,8 +44205,8 @@
 			"cycle": "4.4",
 			"releaseDate": "2024-08-17",
 			"eol": false,
-			"latest": "4.4.3",
-			"latestReleaseDate": "2024-10-30",
+			"latest": "4.4.4",
+			"latestReleaseDate": "2024-11-30",
 			"lts": false
 		},
 		{
