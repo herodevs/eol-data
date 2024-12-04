@@ -637,8 +637,8 @@
 			"cycle": "2023",
 			"releaseDate": "2023-03-01",
 			"eol": "2028-03-15",
-			"latest": "2023.6.20241111.0",
-			"latestReleaseDate": "2024-11-16",
+			"latest": "2023.6.20241121.0",
+			"latestReleaseDate": "2024-12-03",
 			"link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/",
 			"lts": false,
 			"support": "2025-03-15"
@@ -1663,8 +1663,8 @@
 			"powershellVersionsManagedNode": 5.1,
 			"releaseDate": "2024-11-04",
 			"eol": "2026-05-01",
-			"latest": "2.18.0",
-			"latestReleaseDate": "2024-11-04",
+			"latest": "2.18.1",
+			"latestReleaseDate": "2024-12-02",
 			"lts": false
 		},
 		{
@@ -1674,8 +1674,8 @@
 			"powershellVersionsManagedNode": 5.1,
 			"releaseDate": "2024-05-20",
 			"eol": "2025-11-01",
-			"latest": "2.17.6",
-			"latestReleaseDate": "2024-11-04",
+			"latest": "2.17.7",
+			"latestReleaseDate": "2024-12-02",
 			"lts": false
 		},
 		{
@@ -1685,8 +1685,8 @@
 			"powershellVersionsManagedNode": "3 - 5.1",
 			"releaseDate": "2023-11-06",
 			"eol": "2025-05-01",
-			"latest": "2.16.13",
-			"latestReleaseDate": "2024-11-04",
+			"latest": "2.16.14",
+			"latestReleaseDate": "2024-12-02",
 			"lts": false
 		},
 		{
@@ -2973,7 +2973,7 @@
 			"latest": "3.8.1",
 			"latestReleaseDate": "2024-10-29",
 			"lts": false,
-			"extendedSupport": true
+			"extendedSupport": "2026-12-02"
 		},
 		{
 			"cycle": "3.7",
@@ -6631,7 +6631,7 @@
 			"releaseDate": "2024-11-18",
 			"eol": "2026-05-18",
 			"latest": "24.3.0",
-			"latestReleaseDate": "2024-11-18",
+			"latestReleaseDate": "2024-11-20",
 			"lts": false,
 			"support": "2025-11-18"
 		},
@@ -8062,8 +8062,8 @@
 			"cycle": "5",
 			"releaseDate": "2024-03-26",
 			"eol": "2028-04-30",
-			"latest": "5.5.3",
-			"latestReleaseDate": "2024-11-22",
+			"latest": "5.5.4",
+			"latestReleaseDate": "2024-12-02",
 			"lts": false,
 			"support": "2027-04-30"
 		},
@@ -8071,8 +8071,8 @@
 			"cycle": "4",
 			"releaseDate": "2022-05-04",
 			"eol": "2026-04-30",
-			"latest": "4.13.3",
-			"latestReleaseDate": "2024-11-22",
+			"latest": "4.13.4",
+			"latestReleaseDate": "2024-12-02",
 			"lts": false,
 			"support": "2025-04-30"
 		},
@@ -8109,8 +8109,8 @@
 			"cycle": "1.7",
 			"releaseDate": "2023-11-02",
 			"eol": "2024-11-02",
-			"latest": "1.7.18",
-			"latestReleaseDate": "2024-08-07",
+			"latest": "1.7.19",
+			"latestReleaseDate": "2024-12-02",
 			"lts": false,
 			"support": "2024-05-09"
 		},
@@ -12436,6 +12436,14 @@
 	],
 	"gerrit": [
 		{
+			"cycle": "3.11",
+			"releaseDate": "2024-12-02",
+			"eol": false,
+			"latest": "3.11.0",
+			"latestReleaseDate": "2024-12-02",
+			"lts": false
+		},
+		{
 			"cycle": "3.10",
 			"releaseDate": "2024-05-17",
 			"eol": false,
@@ -12454,7 +12462,7 @@
 		{
 			"cycle": "3.8",
 			"releaseDate": "2023-05-19",
-			"eol": false,
+			"eol": "2024-12-02",
 			"latest": "3.8.10",
 			"latestReleaseDate": "2024-11-26",
 			"lts": false
@@ -17359,12 +17367,20 @@
 			"lts": false
 		},
 		{
+			"cycle": "2.479",
+			"releaseDate": "2024-10-02",
+			"lts": "2024-10-30",
+			"eol": false,
+			"latest": "2.479.2",
+			"latestReleaseDate": "2024-11-27"
+		},
+		{
 			"cycle": "2.462",
 			"releaseDate": "2024-06-10",
 			"lts": "2024-08-07",
-			"eol": false,
+			"eol": "2024-10-02",
 			"latest": "2.462.3",
-			"latestReleaseDate": "2024-09-19"
+			"latestReleaseDate": "2024-10-02"
 		},
 		{
 			"cycle": "2.452",
@@ -22304,13 +22320,22 @@
 	],
 	"mautic": [
 		{
+			"cycle": "5.2",
+			"releaseDate": "2024-12-02",
+			"eol": false,
+			"latest": "5.2.0",
+			"latestReleaseDate": "2024-12-02",
+			"lts": false,
+			"support": true
+		},
+		{
 			"cycle": "5.1",
 			"releaseDate": "2024-06-12",
-			"eol": false,
+			"eol": "2024-12-02",
 			"latest": "5.1.1",
 			"latestReleaseDate": "2024-09-18",
 			"lts": false,
-			"support": true
+			"support": "2024-12-02"
 		},
 		{
 			"cycle": "5.0",
@@ -25247,8 +25272,8 @@
 			"cycle": "2.25",
 			"releaseDate": "2024-11-11",
 			"eol": false,
-			"latest": "2.25.2",
-			"latestReleaseDate": "2024-11-14",
+			"latest": "2.25.3",
+			"latestReleaseDate": "2024-12-02",
 			"lts": false
 		},
 		{
@@ -30411,6 +30436,41 @@
 			"support": "2019-10-06"
 		}
 	],
+	"pixel-watch": [
+		{
+			"cycle": "3",
+			"releaseLabel": "Pixel Watch 3",
+			"releaseDate": "2024-09-10",
+			"eol": "2027-10-01",
+			"discontinued": false,
+			"link": "https://en.wikipedia.org/wiki/Pixel_Watch_3",
+			"supportedAndroidVersions": 5,
+			"lts": false,
+			"support": "2027-10-01"
+		},
+		{
+			"cycle": "2",
+			"releaseLabel": "Pixel Watch 2",
+			"releaseDate": "2023-10-12",
+			"eol": "2026-10-01",
+			"discontinued": false,
+			"link": "https://en.wikipedia.org/wiki/Pixel_Watch_2",
+			"supportedAndroidVersions": "4 - 5",
+			"lts": false,
+			"support": "2026-10-01"
+		},
+		{
+			"cycle": "1",
+			"releaseLabel": "Pixel Watch",
+			"releaseDate": "2022-10-13",
+			"eol": "2025-10-01",
+			"discontinued": false,
+			"link": "https://en.wikipedia.org/wiki/Pixel_Watch",
+			"supportedAndroidVersions": "3.5 - 5",
+			"lts": false,
+			"support": "2025-10-01"
+		}
+	],
 	"plesk": [
 		{
 			"cycle": "18.0.65",
@@ -31715,7 +31775,7 @@
 		{
 			"cycle": "7",
 			"releaseDate": "2020-11-13",
-			"eol": false,
+			"eol": "2025-02-28",
 			"latest": "7.34.0",
 			"latestReleaseDate": "2024-10-17",
 			"link": "https://www.puppet.com/docs/puppet/7/release_notes_puppet.html#release_notes_puppet_x-7-25-0",
@@ -40726,13 +40786,33 @@
 	],
 	"svelte": [
 		{
+			"cycle": "5.4",
+			"releaseDate": "2024-12-02",
+			"eol": false,
+			"latest": "5.4.0",
+			"latestReleaseDate": "2024-12-02",
+			"lts": false,
+			"support": true,
+			"extendedSupport": false
+		},
+		{
+			"cycle": "5.3",
+			"releaseDate": "2024-12-01",
+			"eol": "2024-12-02",
+			"latest": "5.3.2",
+			"latestReleaseDate": "2024-12-02",
+			"lts": false,
+			"support": "2024-12-02",
+			"extendedSupport": false
+		},
+		{
 			"cycle": "5.2",
 			"releaseDate": "2024-11-14",
-			"eol": false,
+			"eol": "2024-12-01",
 			"latest": "5.2.12",
 			"latestReleaseDate": "2024-11-30",
 			"lts": false,
-			"support": true,
+			"support": "2024-12-01",
 			"extendedSupport": false
 		},
 		{
@@ -40791,6 +40871,7 @@
 			"eol": "2023-06-22",
 			"latest": "3.59.2",
 			"latestReleaseDate": "2023-06-20",
+			"link": "https://github.com/sveltejs/svelte/releases/tag/v__LATEST__",
 			"lts": false,
 			"support": "2023-06-22",
 			"extendedSupport": false
@@ -40801,6 +40882,7 @@
 			"eol": "2019-04-21",
 			"latest": "2.16.1",
 			"latestReleaseDate": "2019-02-08",
+			"link": "https://github.com/sveltejs/svelte/releases/tag/v__LATEST__",
 			"lts": false,
 			"support": "2019-04-21",
 			"extendedSupport": false
@@ -40811,6 +40893,7 @@
 			"eol": "2018-04-19",
 			"latest": "1.64.1",
 			"latestReleaseDate": "2018-04-18",
+			"link": "https://github.com/sveltejs/svelte/releases/tag/v__LATEST__",
 			"lts": false,
 			"support": "2018-04-19",
 			"extendedSupport": false
