@@ -2256,8 +2256,8 @@
 			"releaseDate": "2024-09-10",
 			"eol": false,
 			"supportedJavaVersions": "17, 21",
-			"latest": "4.8.1",
-			"latestReleaseDate": "2024-10-20"
+			"latest": "4.8.2",
+			"latestReleaseDate": "2024-12-01"
 		},
 		{
 			"cycle": "4.7",
@@ -8683,8 +8683,8 @@
 			"cycle": "25.0",
 			"releaseDate": "2024-01-19",
 			"eol": false,
-			"latest": "25.0.6",
-			"latestReleaseDate": "2024-07-25",
+			"latest": "25.0.7",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
@@ -8699,8 +8699,8 @@
 			"cycle": "23.0",
 			"releaseDate": "2023-02-02",
 			"eol": "2025-05-19",
-			"latest": "23.0.15",
-			"latestReleaseDate": "2024-10-07",
+			"latest": "23.0.16",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
@@ -9518,8 +9518,8 @@
 			"cycle": "31",
 			"releaseDate": "2024-06-11",
 			"eol": "2025-01-14",
-			"latest": "31.7.5",
-			"latestReleaseDate": "2024-11-15",
+			"latest": "31.7.6",
+			"latestReleaseDate": "2024-12-05",
 			"chromeVersion": "M126",
 			"nodeVersion": "20.14",
 			"lts": false
@@ -10378,8 +10378,8 @@
 			"cycle": "27",
 			"releaseDate": "2024-05-17",
 			"eol": "2027-05-20",
-			"latest": "27.1.2",
-			"latestReleaseDate": "2024-10-17",
+			"latest": "27.1.3",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false,
 			"support": true
 		},
@@ -10387,8 +10387,8 @@
 			"cycle": "26",
 			"releaseDate": "2023-05-15",
 			"eol": "2026-05-15",
-			"latest": "26.2.5.5",
-			"latestReleaseDate": "2024-10-31",
+			"latest": "26.2.5.6",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false,
 			"support": true
 		},
@@ -10396,8 +10396,8 @@
 			"cycle": "25",
 			"releaseDate": "2022-05-17",
 			"eol": "2025-05-17",
-			"latest": "25.3.2.15",
-			"latestReleaseDate": "2024-10-11",
+			"latest": "25.3.2.16",
+			"latestReleaseDate": "2024-12-04",
 			"lts": false,
 			"support": "2023-05-15"
 		},
@@ -13989,8 +13989,8 @@
 			"cycle": "2.9",
 			"releaseDate": "2023-09-06",
 			"eol": "2024-04-08",
-			"latest": "2.9.10",
-			"latestReleaseDate": "2024-08-09",
+			"latest": "2.9.11",
+			"latestReleaseDate": "2024-12-04",
 			"lts": false
 		},
 		{
@@ -20237,18 +20237,18 @@
 	"linux": [
 		{
 			"cycle": "6.12",
+			"lts": true,
 			"releaseDate": "2024-11-17",
-			"eol": "2025-03-17",
-			"latest": "6.12.1",
-			"latestReleaseDate": "2024-11-22",
-			"lts": false
+			"eol": "2026-12-31",
+			"latest": "6.12.3",
+			"latestReleaseDate": "2024-12-06"
 		},
 		{
 			"cycle": "6.11",
 			"releaseDate": "2024-09-15",
-			"eol": "2025-01-15",
-			"latest": "6.11.10",
-			"latestReleaseDate": "2024-11-22",
+			"eol": "2024-12-05",
+			"latest": "6.11.11",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
@@ -20399,9 +20399,9 @@
 			"cycle": "4.19",
 			"lts": true,
 			"releaseDate": "2018-10-22",
-			"eol": "2024-12-31",
-			"latest": "4.19.324",
-			"latestReleaseDate": "2024-11-17"
+			"eol": "2024-12-05",
+			"latest": "4.19.325",
+			"latestReleaseDate": "2024-12-05"
 		},
 		{
 			"cycle": "4.14",
@@ -24525,24 +24525,24 @@
 			"cycle": "30",
 			"releaseDate": "2024-09-14",
 			"eol": "2025-09-30",
-			"latest": "30.0.2",
-			"latestReleaseDate": "2024-11-07",
+			"latest": "30.0.3",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
 			"cycle": "29",
 			"releaseDate": "2024-04-24",
 			"eol": "2025-04-30",
-			"latest": "29.0.9",
-			"latestReleaseDate": "2024-11-07",
+			"latest": "29.0.10",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
 			"cycle": "28",
 			"releaseDate": "2023-12-12",
 			"eol": "2024-12-31",
-			"latest": "28.0.12",
-			"latestReleaseDate": "2024-11-07",
+			"latest": "28.0.13",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
@@ -24647,8 +24647,8 @@
 			"cycle": "15",
 			"releaseDate": "2024-10-21",
 			"eol": false,
-			"latest": "15.0.3",
-			"latestReleaseDate": "2024-11-07",
+			"latest": "15.0.4",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
@@ -24705,8 +24705,8 @@
 			"cycle": "3.75",
 			"releaseDate": "2024-12-03",
 			"eol": "2026-06-03",
-			"latest": "3.75.0-06",
-			"latestReleaseDate": "2024-12-03",
+			"latest": "3.75.1-01",
+			"latestReleaseDate": "2024-12-06",
 			"lts": false,
 			"support": "2025-12-03"
 		},
@@ -27627,6 +27627,89 @@
 			"support": "2005-03-11"
 		}
 	],
+	"nvm": [
+		{
+			"cycle": "0.40",
+			"releaseDate": "2024-07-30",
+			"eol": false,
+			"latest": "0.40.1",
+			"latestReleaseDate": "2024-08-27",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.39",
+			"releaseDate": "2021-10-07",
+			"eol": "2024-07-30",
+			"latest": "0.39.7",
+			"latestReleaseDate": "2023-12-05",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.38",
+			"releaseDate": "2021-03-29",
+			"eol": "2021-10-07",
+			"latest": "0.38.0",
+			"latestReleaseDate": "2021-03-29",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.37",
+			"releaseDate": "2020-11-06",
+			"eol": "2021-03-29",
+			"latest": "0.37.2",
+			"latestReleaseDate": "2020-11-27",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.36",
+			"releaseDate": "2020-09-23",
+			"eol": "2020-11-06",
+			"latest": "0.36.0",
+			"latestReleaseDate": "2020-09-23",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.35",
+			"releaseDate": "2019-10-02",
+			"eol": "2020-09-23",
+			"latest": "0.35.3",
+			"latestReleaseDate": "2020-03-05",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.34",
+			"releaseDate": "2019-01-07",
+			"eol": "2019-10-02",
+			"latest": "0.34.0",
+			"latestReleaseDate": "2019-01-07",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.33",
+			"releaseDate": "2016-12-29",
+			"eol": "2019-01-07",
+			"latest": "0.33.11",
+			"latestReleaseDate": "2018-04-25",
+			"lts": false,
+			"extendedSupport": true
+		},
+		{
+			"cycle": "0.32",
+			"releaseDate": "2016-09-15",
+			"eol": "2016-12-29",
+			"latest": "0.32.1",
+			"latestReleaseDate": "2016-10-18",
+			"lts": false,
+			"extendedSupport": true
+		}
+	],
 	"office": [
 		{
 			"cycle": "365",
@@ -28470,16 +28553,16 @@
 			"cycle": "1.8",
 			"releaseDate": "2024-07-29",
 			"eol": false,
-			"latest": "1.8.6",
-			"latestReleaseDate": "2024-11-22",
+			"latest": "1.8.7",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
 			"cycle": "1.7",
 			"releaseDate": "2024-04-30",
 			"eol": false,
-			"latest": "1.7.6",
-			"latestReleaseDate": "2024-11-22",
+			"latest": "1.7.7",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false
 		},
 		{
@@ -29530,18 +29613,18 @@
 			"cycle": "11.2",
 			"releaseDate": "2024-05-02",
 			"eol": "2027-05-02",
-			"latest": "11.2.4-h1",
-			"latestReleaseDate": "2024-11-17",
-			"link": "https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-4-known-and-addressed-issues/pan-os-11-2-4-h1-addressed-issues",
+			"latest": "11.2.4-h2",
+			"latestReleaseDate": "2024-12-04",
+			"link": "https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-4-known-and-addressed-issues/pan-os-11-2-4-h2-addressed-issues",
 			"lts": false
 		},
 		{
 			"cycle": "11.1",
 			"releaseDate": "2023-11-03",
 			"eol": "2027-05-03",
-			"latest": "11.1.5-h1",
-			"latestReleaseDate": "2024-11-16",
-			"link": "https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-5-known-and-addressed-issues/pan-os-11-1-5-h1-addressed-issues",
+			"latest": "11.1.6",
+			"latestReleaseDate": "2024-12-05",
+			"link": "https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-6-known-and-addressed-issues/pan-os-11-1-6-addressed-issues",
 			"lts": false
 		},
 		{
@@ -30282,7 +30365,7 @@
 			"link": "https://en.wikipedia.org/wiki/Pixel_Fold",
 			"supportedAndroidVersions": "13 - 15",
 			"lts": false,
-			"support": "2026-06-01"
+			"support": "2028-06-01"
 		},
 		{
 			"cycle": "tablet",
@@ -30304,7 +30387,7 @@
 			"link": "https://en.wikipedia.org/wiki/Pixel_7a",
 			"supportedAndroidVersions": "13 - 15",
 			"lts": false,
-			"support": "2026-05-01"
+			"support": "2028-05-01"
 		},
 		{
 			"cycle": "7pro",
@@ -30315,7 +30398,7 @@
 			"link": "https://en.wikipedia.org/wiki/Pixel_7_Pro",
 			"supportedAndroidVersions": "13 - 15",
 			"lts": false,
-			"support": "2025-10-01"
+			"support": "2027-10-01"
 		},
 		{
 			"cycle": "7",
@@ -30326,7 +30409,7 @@
 			"link": "https://en.wikipedia.org/wiki/Pixel_7",
 			"supportedAndroidVersions": "13 - 15",
 			"lts": false,
-			"support": "2025-10-01"
+			"support": "2027-10-01"
 		},
 		{
 			"cycle": "6a",
@@ -30337,7 +30420,7 @@
 			"link": "https://en.wikipedia.org/wiki/Pixel_6a",
 			"supportedAndroidVersions": "12 - 15",
 			"lts": false,
-			"support": "2025-07-01"
+			"support": "2027-07-01"
 		},
 		{
 			"cycle": "6pro",
@@ -30348,7 +30431,7 @@
 			"link": "https://en.wikipedia.org/wiki/Pixel_6_Pro",
 			"supportedAndroidVersions": "12 - 15",
 			"lts": false,
-			"support": "2024-10-01"
+			"support": "2026-10-01"
 		},
 		{
 			"cycle": "6",
@@ -30359,7 +30442,7 @@
 			"link": "https://en.wikipedia.org/wiki/Pixel_6",
 			"supportedAndroidVersions": "12 - 15",
 			"lts": false,
-			"support": "2024-10-01"
+			"support": "2026-10-01"
 		},
 		{
 			"cycle": "5a",
@@ -33427,8 +33510,8 @@
 			"cycle": "4.14",
 			"releaseDate": "2023-10-31",
 			"eol": "2025-05-01",
-			"latest": "4.14.41",
-			"latestReleaseDate": "2024-11-20",
+			"latest": "4.14.42",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false,
 			"support": "2024-05-27",
 			"extendedSupport": "2025-10-31"
@@ -33447,8 +33530,8 @@
 			"cycle": "4.12",
 			"releaseDate": "2023-01-17",
 			"eol": "2024-07-17",
-			"latest": "4.12.69",
-			"latestReleaseDate": "2024-11-14",
+			"latest": "4.12.70",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false,
 			"support": "2023-08-17",
 			"extendedSupport": "2025-01-17"
@@ -40814,8 +40897,8 @@
 			"cycle": "5",
 			"releaseDate": "2024-10-19",
 			"eol": false,
-			"latest": "5.6.2",
-			"latestReleaseDate": "2024-12-04",
+			"latest": "5.7.1",
+			"latestReleaseDate": "2024-12-05",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
