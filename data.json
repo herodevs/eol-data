@@ -210,12 +210,21 @@
 	],
 	"alpine": [
 		{
+			"cycle": "3.21",
+			"releaseDate": "2024-12-05",
+			"eol": "2026-11-01",
+			"latest": "3.21.0",
+			"latestReleaseDate": "2024-12-05",
+			"link": "https://alpinelinux.org/posts/Alpine-3.21.0-released.html",
+			"lts": false
+		},
+		{
 			"cycle": "3.20",
 			"releaseDate": "2024-05-22",
 			"eol": "2026-04-01",
 			"latest": "3.20.3",
 			"latestReleaseDate": "2024-09-06",
-			"link": "https://alpinelinux.org/posts/Alpine-3.20.0-released.html",
+			"link": "https://alpinelinux.org/posts/Alpine-3.17.10-3.18.9-3.19.4-3.20.3-released.html",
 			"lts": false
 		},
 		{
@@ -224,7 +233,7 @@
 			"eol": "2025-11-01",
 			"latest": "3.19.4",
 			"latestReleaseDate": "2024-09-06",
-			"link": "https://alpinelinux.org/posts/Alpine-3.19.1-released.html",
+			"link": "https://alpinelinux.org/posts/Alpine-3.17.10-3.18.9-3.19.4-3.20.3-released.html",
 			"lts": false
 		},
 		{
@@ -233,7 +242,7 @@
 			"eol": "2025-05-09",
 			"latest": "3.18.9",
 			"latestReleaseDate": "2024-09-06",
-			"link": "https://alpinelinux.org/posts/Alpine-3.16.9-3.17.7-3.18.6-released.html",
+			"link": "https://alpinelinux.org/posts/Alpine-3.17.10-3.18.9-3.19.4-3.20.3-released.html",
 			"lts": false
 		},
 		{
@@ -242,7 +251,7 @@
 			"eol": "2024-11-22",
 			"latest": "3.17.10",
 			"latestReleaseDate": "2024-09-06",
-			"link": "https://alpinelinux.org/posts/Alpine-3.16.9-3.17.7-3.18.6-released.html",
+			"link": "https://alpinelinux.org/posts/Alpine-3.17.10-3.18.9-3.19.4-3.20.3-released.html",
 			"lts": false
 		},
 		{
@@ -258,7 +267,7 @@
 			"cycle": "3.15",
 			"eol": "2023-11-01",
 			"latest": "3.15.11",
-			"link": "https://alpinelinux.org/posts/Alpine-3.15.10-3.16.7-3.17.5-3.18.3-released.html",
+			"link": "https://alpinelinux.org/posts/Alpine-3.15.11-3.16.8-3.17.6-3.18.5-released.html",
 			"latestReleaseDate": "2023-11-30",
 			"releaseDate": "2021-11-24",
 			"lts": false
@@ -2251,10 +2260,19 @@
 	],
 	"apache-camel": [
 		{
+			"cycle": "4.9",
+			"releaseDate": "2024-12-05",
+			"eol": false,
+			"supportedJavaVersions": "17, 21",
+			"latest": "4.9.0",
+			"latestReleaseDate": "2024-12-05",
+			"lts": false
+		},
+		{
 			"cycle": "4.8",
 			"lts": true,
 			"releaseDate": "2024-09-10",
-			"eol": false,
+			"eol": "2025-09-10",
 			"supportedJavaVersions": "17, 21",
 			"latest": "4.8.2",
 			"latestReleaseDate": "2024-12-01"
@@ -2262,7 +2280,7 @@
 		{
 			"cycle": "4.7",
 			"releaseDate": "2024-07-09",
-			"eol": false,
+			"eol": "2024-09-10",
 			"supportedJavaVersions": "17, 21",
 			"latest": "4.7.0",
 			"latestReleaseDate": "2024-07-09",
@@ -4229,6 +4247,24 @@
 		}
 	],
 	"aws-lambda": [
+		{
+			"cycle": "nodejs22.x",
+			"releaseLabel": "Node.js 22",
+			"releaseDate": "2024-11-22",
+			"eol": false,
+			"link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-nodejs-22/",
+			"lts": false,
+			"support": true
+		},
+		{
+			"cycle": "python3.13",
+			"releaseLabel": "Python 3.13",
+			"releaseDate": "2024-11-14",
+			"eol": false,
+			"link": "https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313/",
+			"lts": false,
+			"support": true
+		},
 		{
 			"cycle": "ruby3.3",
 			"releaseLabel": "Ruby 3.3",
@@ -12073,6 +12109,81 @@
 			"lts": false
 		}
 	],
+	"forgejo": [
+		{
+			"cycle": "16.0",
+			"releaseDate": "2026-06-24",
+			"lts": false,
+			"eol": "2026-10-14",
+			"latest": "16.0.0"
+		},
+		{
+			"cycle": "15.0",
+			"releaseDate": "2026-04-15",
+			"lts": true,
+			"eol": "2027-07-14",
+			"latest": "15.0.0"
+		},
+		{
+			"cycle": "14.0",
+			"releaseDate": "2026-01-14",
+			"lts": false,
+			"eol": "2026-04-15",
+			"latest": "14.0.0"
+		},
+		{
+			"cycle": "13.0",
+			"releaseDate": "2025-10-15",
+			"lts": false,
+			"eol": "2026-01-14",
+			"latest": "13.0.0"
+		},
+		{
+			"cycle": "12.0",
+			"releaseDate": "2025-07-16",
+			"lts": false,
+			"eol": "2025-10-15",
+			"latest": "12.0.0"
+		},
+		{
+			"cycle": "11.0",
+			"releaseDate": "2025-04-16",
+			"lts": true,
+			"eol": "2026-07-16",
+			"latest": "11.0.0"
+		},
+		{
+			"cycle": "10.0",
+			"releaseDate": "2025-01-15",
+			"lts": false,
+			"eol": "2025-04-16",
+			"latest": "10.0.0"
+		},
+		{
+			"cycle": "9.0",
+			"releaseDate": "2024-10-16",
+			"lts": false,
+			"eol": "2025-01-15",
+			"latest": "9.0.2",
+			"latestReleaseDate": "2024-11-15"
+		},
+		{
+			"cycle": "8.0",
+			"releaseDate": "2024-07-30",
+			"lts": false,
+			"eol": "2025-10-16",
+			"latest": "8.0.3",
+			"latestReleaseDate": "2024-09-06"
+		},
+		{
+			"cycle": "7.0",
+			"releaseDate": "2024-01-04",
+			"lts": true,
+			"eol": "2025-07-16",
+			"latest": "7.0.11",
+			"latestReleaseDate": "2024-11-15"
+		}
+	],
 	"fortios": [
 		{
 			"cycle": "7.6",
@@ -13790,13 +13901,22 @@
 	],
 	"grafana": [
 		{
+			"cycle": "11.4",
+			"releaseDate": "2024-12-05",
+			"eol": false,
+			"latest": "11.4.0",
+			"latestReleaseDate": "2024-12-05",
+			"lts": false,
+			"support": true
+		},
+		{
 			"cycle": "11.3",
 			"releaseDate": "2024-10-22",
-			"eol": false,
+			"eol": "2025-07-31",
 			"latest": "11.3.2",
 			"latestReleaseDate": "2024-12-04",
 			"lts": false,
-			"support": true
+			"support": "2024-12-05"
 		},
 		{
 			"cycle": "11.2",
@@ -17539,6 +17659,15 @@
 		}
 	],
 	"jira-software": [
+		{
+			"cycle": "10.3",
+			"releaseDate": "2024-12-05",
+			"eol": "2026-12-05",
+			"latest": "10.3.0",
+			"latestReleaseDate": "2024-12-05",
+			"link": "https://confluence.atlassian.com/jirasoftware/jira-software-10-3-x-release-notes-1472790887.html",
+			"lts": false
+		},
 		{
 			"cycle": "10.2",
 			"releaseDate": "2024-11-20",
@@ -26550,13 +26679,22 @@
 	],
 	"nutanix-aos": [
 		{
+			"cycle": "7.0",
+			"releaseDate": "2024-12-04",
+			"eol": false,
+			"latest": "7.0",
+			"latestReleaseDate": "2024-12-04",
+			"lts": false,
+			"support": true
+		},
+		{
 			"cycle": "6.10",
 			"releaseDate": "2024-10-07",
-			"eol": false,
+			"eol": "2026-12-31",
 			"latest": "6.10",
 			"latestReleaseDate": "2024-10-07",
 			"lts": false,
-			"support": true
+			"support": "2026-03-31"
 		},
 		{
 			"cycle": "6.8",
@@ -26816,13 +26954,22 @@
 	],
 	"nutanix-prism": [
 		{
+			"cycle": "pc.2024.3",
+			"releaseDate": "2024-12-05",
+			"eol": false,
+			"latest": "pc.2024.3",
+			"latestReleaseDate": "2024-12-05",
+			"lts": false,
+			"support": true
+		},
+		{
 			"cycle": "pc.2024.2",
 			"releaseDate": "2024-09-17",
-			"eol": false,
+			"eol": "2026-12-31",
 			"latest": "pc.2024.2.0.1",
 			"latestReleaseDate": "2024-09-17",
 			"lts": false,
-			"support": true
+			"support": "2026-03-31"
 		},
 		{
 			"cycle": "pc.2024.1",
@@ -33121,6 +33268,15 @@
 	],
 	"react": [
 		{
+			"cycle": "19.0",
+			"releaseDate": "2024-12-05",
+			"eol": false,
+			"latest": "19.0.0",
+			"latestReleaseDate": "2024-12-05",
+			"lts": false,
+			"support": true
+		},
+		{
 			"cycle": "18.3",
 			"releaseDate": "2024-04-25",
 			"eol": false,
@@ -34137,6 +34293,15 @@
 		}
 	],
 	"rocket-chat": [
+		{
+			"cycle": "7.1",
+			"releaseDate": "2024-12-04",
+			"eol": "2025-06-30",
+			"latest": "7.1.0",
+			"latestReleaseDate": "2024-12-04",
+			"lts": false,
+			"support": "2024-12-31"
+		},
 		{
 			"cycle": "7.0",
 			"releaseDate": "2024-10-31",
