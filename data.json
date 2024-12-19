@@ -352,8 +352,8 @@
 			"cycle": "2",
 			"releaseDate": "2021-12-01",
 			"eol": false,
-			"latest": "2.173.1",
-			"latestReleaseDate": "2024-12-14",
+			"latest": "2.173.2",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false,
 			"support": true
 		}
@@ -5305,8 +5305,8 @@
 			"cycle": "4.3",
 			"releaseDate": "2024-11-19",
 			"eol": false,
-			"latest": "4.3.1",
-			"latestReleaseDate": "2024-12-10",
+			"latest": "4.3.2",
+			"latestReleaseDate": "2024-12-16",
 			"lts": false,
 			"support": true
 		},
@@ -5315,8 +5315,8 @@
 			"lts": true,
 			"releaseDate": "2024-07-16",
 			"eol": "2026-07-01",
-			"latest": "4.2.4",
-			"latestReleaseDate": "2024-11-18",
+			"latest": "4.2.5",
+			"latestReleaseDate": "2024-12-16",
 			"support": "2026-07-01"
 		},
 		{
@@ -5342,8 +5342,8 @@
 			"lts": true,
 			"releaseDate": "2023-06-27",
 			"eol": "2025-07-01",
-			"latest": "3.6.18",
-			"latestReleaseDate": "2024-11-18",
+			"latest": "3.6.19",
+			"latestReleaseDate": "2024-12-16",
 			"support": "2025-07-01"
 		},
 		{
@@ -5466,8 +5466,8 @@
 			"cycle": "1",
 			"releaseDate": "2023-09-07",
 			"eol": false,
-			"latest": "1.1.38",
-			"latestReleaseDate": "2024-11-28",
+			"latest": "1.1.40",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false
 		}
 	],
@@ -7990,32 +7990,32 @@
 			"lts": true,
 			"releaseDate": "2024-10-02",
 			"eol": "2026-09-01",
-			"latest": "cos-117-18613-75-66",
-			"latestReleaseDate": "2024-12-09"
+			"latest": "cos-117-18613-75-72",
+			"latestReleaseDate": "2024-12-16"
 		},
 		{
 			"cycle": "cos-113",
 			"lts": true,
 			"releaseDate": "2024-04-15",
 			"eol": "2026-03-01",
-			"latest": "cos-113-18244-236-70",
-			"latestReleaseDate": "2024-12-09"
+			"latest": "cos-113-18244-236-77",
+			"latestReleaseDate": "2024-12-16"
 		},
 		{
 			"cycle": "cos-109",
 			"lts": true,
 			"releaseDate": "2023-09-27",
 			"eol": "2025-09-01",
-			"latest": "cos-109-17800-372-69",
-			"latestReleaseDate": "2024-12-09"
+			"latest": "cos-109-17800-372-71",
+			"latestReleaseDate": "2024-12-16"
 		},
 		{
 			"cycle": "cos-105",
 			"lts": true,
 			"releaseDate": "2023-04-03",
 			"eol": "2025-04-01",
-			"latest": "cos-105-17412-495-69",
-			"latestReleaseDate": "2024-12-09"
+			"latest": "cos-105-17412-495-73",
+			"latestReleaseDate": "2024-12-16"
 		},
 		{
 			"cycle": "cos-101",
@@ -8155,8 +8155,8 @@
 			"cycle": "5",
 			"releaseDate": "2024-03-26",
 			"eol": "2028-04-30",
-			"latest": "5.5.6.1",
-			"latestReleaseDate": "2024-12-11",
+			"latest": "5.5.7",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false,
 			"support": "2027-04-30"
 		},
@@ -8164,8 +8164,8 @@
 			"cycle": "4",
 			"releaseDate": "2022-05-04",
 			"eol": "2026-04-30",
-			"latest": "4.13.6",
-			"latestReleaseDate": "2024-12-10",
+			"latest": "4.13.7",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false,
 			"support": "2025-04-30"
 		},
@@ -9121,13 +9121,23 @@
 	],
 	"drupal": [
 		{
+			"cycle": "11.1",
+			"releaseDate": "2024-12-16",
+			"eol": false,
+			"latest": "11.1.0",
+			"latestReleaseDate": "2024-12-16",
+			"lts": false,
+			"support": true,
+			"extendedSupport": false
+		},
+		{
 			"cycle": "11.0",
 			"releaseDate": "2024-08-02",
 			"eol": "2025-06-16",
 			"latest": "11.0.9",
 			"latestReleaseDate": "2024-11-22",
 			"lts": false,
-			"support": true,
+			"support": "2024-12-16",
 			"extendedSupport": false
 		},
 		{
@@ -10048,11 +10058,11 @@
 		{
 			"cycle": "5.12",
 			"releaseDate": "2024-09-30",
-			"lts": "2024-11-15",
-			"eol": "2025-11-28",
+			"lts": "2024-09-30",
+			"eol": "2025-10-13",
 			"latest": "5.12.0",
 			"latestReleaseDate": "2024-09-30",
-			"support": "2025-07-25"
+			"support": "2025-04-28"
 		},
 		{
 			"cycle": "5.11",
@@ -17606,8 +17616,8 @@
 			"releaseLabel": "Regular",
 			"releaseDate": "2016-04-20",
 			"eol": false,
-			"latest": "2.489",
-			"latestReleaseDate": "2024-12-10",
+			"latest": "2.490",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false
 		},
 		{
@@ -20294,8 +20304,8 @@
 			"releaseDate": "2024-03-12",
 			"eol": "2026-03-12",
 			"supportedPhpVersions": "8.2 - 8.3",
-			"latest": "11.35.1",
-			"latestReleaseDate": "2024-12-12",
+			"latest": "11.36.1",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false,
 			"support": "2025-09-03"
 		},
@@ -20589,7 +20599,7 @@
 			"cycle": "6.1",
 			"lts": true,
 			"releaseDate": "2022-12-11",
-			"eol": "2026-12-31",
+			"eol": "2027-12-31",
 			"latest": "6.1.120",
 			"latestReleaseDate": "2024-12-14"
 		},
@@ -22309,6 +22319,14 @@
 	],
 	"mattermost": [
 		{
+			"cycle": "10.3",
+			"releaseDate": "2024-12-16",
+			"eol": "2025-03-15",
+			"latest": "10.3.1",
+			"latestReleaseDate": "2024-12-16",
+			"lts": false
+		},
+		{
 			"cycle": "10.2",
 			"releaseDate": "2024-11-15",
 			"eol": "2025-02-15",
@@ -22594,8 +22612,8 @@
 			"cycle": "5.2",
 			"releaseDate": "2024-12-02",
 			"eol": false,
-			"latest": "5.2.0",
-			"latestReleaseDate": "2024-12-02",
+			"latest": "5.2.1",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false,
 			"support": true
 		},
@@ -23027,8 +23045,8 @@
 			"cycle": "4",
 			"releaseDate": "2023-07-11",
 			"eol": false,
-			"latest": "4.7.8",
-			"latestReleaseDate": "2024-12-13",
+			"latest": "4.7.9",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false,
 			"support": true
 		},
@@ -24960,9 +24978,9 @@
 			"cycle": "4.4",
 			"releaseDate": "2021-12-02",
 			"eol": "2025-11-30",
-			"latest": "4.4.39",
+			"latest": "4.4.40",
 			"lts": true,
-			"latestReleaseDate": "2024-11-22"
+			"latestReleaseDate": "2024-12-17"
 		},
 		{
 			"cycle": "4.3",
@@ -25227,8 +25245,8 @@
 			"cycle": "15",
 			"releaseDate": "2024-10-21",
 			"eol": false,
-			"latest": "15.1.0",
-			"latestReleaseDate": "2024-12-10",
+			"latest": "15.1.1",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false
 		},
 		{
@@ -29342,8 +29360,8 @@
 			"codename": "Thriving Tiger",
 			"releaseDate": "2024-07-23",
 			"eol": false,
-			"latest": "24.7.10",
-			"latestReleaseDate": "2024-12-03",
+			"latest": "24.7.11",
+			"latestReleaseDate": "2024-12-17",
 			"lts": false
 		},
 		{
@@ -40610,6 +40628,14 @@
 	],
 	"splunk": [
 		{
+			"cycle": "9.4",
+			"releaseDate": "2024-12-16",
+			"eol": "2026-12-16",
+			"latest": "9.4.0",
+			"latestReleaseDate": "2024-12-16",
+			"lts": false
+		},
+		{
 			"cycle": "9.3",
 			"releaseDate": "2024-07-24",
 			"eol": "2026-07-24",
@@ -41571,8 +41597,8 @@
 			"cycle": "5",
 			"releaseDate": "2024-10-19",
 			"eol": false,
-			"latest": "5.14.1",
-			"latestReleaseDate": "2024-12-16",
+			"latest": "5.14.3",
+			"latestReleaseDate": "2024-12-18",
 			"lts": false,
 			"support": true,
 			"extendedSupport": false
@@ -45023,9 +45049,17 @@
 	],
 	"weechat": [
 		{
+			"cycle": "4.5",
+			"releaseDate": "2024-12-15",
+			"eol": false,
+			"latest": "4.5.0",
+			"latestReleaseDate": "2024-12-15",
+			"lts": false
+		},
+		{
 			"cycle": "4.4",
 			"releaseDate": "2024-08-17",
-			"eol": false,
+			"eol": "2024-12-15",
 			"latest": "4.4.4",
 			"latestReleaseDate": "2024-11-30",
 			"lts": false
@@ -46770,8 +46804,8 @@
 			"lts": true,
 			"releaseDate": "2022-02-08",
 			"eol": "2027-02-28",
-			"latest": "6.0.36",
-			"latestReleaseDate": "2024-11-19",
+			"latest": "6.0.37",
+			"latestReleaseDate": "2024-12-17",
 			"support": "2025-02-28"
 		},
 		{
